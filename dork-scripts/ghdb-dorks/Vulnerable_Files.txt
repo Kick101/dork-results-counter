@@ -1,0 +1,84 @@
+allinurl:forcedownload.php?file=
+"create the Super User" "now by clicking here"
+Dork: "index of" "Production.json"
+Dork: "Index of" "upload_image.php"
+"e107.org 2002/2003" inurl:forum_post.php?nt
+ext:asp inurl:DUgallery intitle:"3.0" -site:dugall
+ext:asp "powered by DUForum" inurl:(messages|details|login|default|register) -site:duware.com
+ext:cgi inurl:ubb6_test.cgi
+ezBOO "Administrator Panel" -cvs
+filetype:cgi inurl:cachemgr.cgi
+filetype:cnf my.cnf -cvs -example
+filetype:inc inc intext:setcookie
+filetype:lit lit (books|ebooks)
+filetype:mdb inurl:"news/news"
+filetype:mdb "standard jet" (password | username | user | pass)
+filetype:php inurl:"viewfile" -"index.php" -"idfil
+filetype:pl -intext:"/usr/bin/perl" inurl:webcal (inurl:webcal | inurl:add | inurl:delete | inurl:config)
+filetype:wsdl wsdl
+"File Upload Manager v1.3" "rename to"
+Google Dork: intitle:"index of" "/sql" "admin"
+index of admin/fckeditor/editor/filemanager/
+index.of.?.frm
+"index of /" intext:wp-config "zip"
+intext:"powered by BlueCMS v1.6"
+intitle:"ASP FileMan" Resend -site:iisworks.com
+intitle:"CJ Link Out V1"
+intitle:"Control panel" "Control Panel Login" ArticleLive inurl:admin -demo
+intitle:"Directory Listing" "tree view"
+intitle:gallery inurl:setup "Gallery configuration"
+intitle: Index of /assets/admin/system
+intitle:"index of" "/cgi-bin" "admin"
+intitle:index.of.etc
+intitle:"index of" "master03.xml"
+intitle:"Index of /" modified php.exe
+intitle:"index of" "nrpe.cfg"
+intitle:"index of" "*.php"
+intitle:"index of" "*.phtml"
+intitle:"index of" "*.pl"
+intitle:"index of" "pres.xml"
+intitle:"index of" "schema.sql"
+intitle:"Index of" site:.in
+intitle:"index of" "stylesheet.css"
+intitle:mywebftp "Please enter your password"
+intitle:"PHP Explorer" ext:php (inurl:phpexplorer.php | inurl:list.php | inurl:browse.php)
+intitle:"phpremoteview" filetype:php "Name, Size,
+intitle:"PHPstat" intext:"Browser" intext:"PHPstat setup"
+intitle:"SSHVnc Applet"OR intitle:"SSHTerm Applet"
+inurl:cartwiz/store/index.asp
+inurl:cgi.asx?StoreID
+inurl:cgi-bin inurl:bigate.cgi
+inurl:changepassword.cgi -cvs
+inurl:click.php intext:PHPClickLog
+inurl:.com index of movies
+inurl:demo.browse.php intitle:getid3
+inurl:*gov intitle:"index of" "docker-compose"
+inurl:guestbook/guestbooklist.asp "Post Date" From
+inurl:"nph-proxy.cgi" "Start browsing through this CGI-based proxy"
+inurl:nquser.php filetype:php
+inurl:php.exe filetype:exe -example.com
+inurl:"plog/register.php"
+inurl:robpoll.cgi filetype:cgi
+inurl:"simplenews/admin"
+inurl:/supportboard
+inurl:updown.php | intext:"Powered by PHP Uploader Downloader"
+inurl:" WWWADMIN.PL" intitle:"wwwadmin"
+ionCube Loader Wizard information disclosure
+link:http://www.toastforums.com/
+"Mail-it Now!" intitle:"Contact form" | inurl:contact.php
+"maxwebportal" inurl:"default" "snitz forums" +"homepage" -intitle:maxwebportal
+PHPFreeNews inurl:Admin.php
+"Powered by FlexPHPNews" inurl:news | inurl:press
+"Powered by FunkBoard"
+"Powered by Gravity Board"
+"Powered by Land Down Under 601"
+"powered by mailgust"
+"powered by my little forum"
+"Powered by SilverNews"
+"Powered By: Simplicity oF Upload" inurl:download.php | inurl:upload.php
+"Powered by Xcomic"
+"powered by YellDL"
+-site:simplemachines.org "These are the paths and URLs to your SMF installation"
+TOO MANY
+vBulletin Install Page Detection
+"Warning:" "Cannot execute a blank command in"

@@ -1,0 +1,908 @@
+[4] site:*.gov.in/admin/password/reset
+[2] site:*.gov.in/admin.php inurl:files
+[509] site:*.gov.in /adp/self/service/login
+[59800000] site:*.gov.in "# AdwCleaner" ext:txt
+[3400] site:*.gov.in "Affiliate Network Pro"
+[384] site:*.gov.in "air confirmation" "passenger(s)"
+[1] site:*.gov.in allintext"account number"
+[1] site:*.gov.in allintext:adhaar filetype:xlsx
+[172] site:*.gov.in allintext:"*.@gmail.com" OR "password" OR "username" filetype:xlsx
+[2] site:*.gov.in allintitle:Brains, Corp. camera
+[1] site:*.gov.in allinurl:"article.download.php"
+[2] site:*.gov.in allinurl: com_clasifier
+[1] site:*.gov.in allinurl:"com_n-gallery"
+[2] site:*.gov.in allinurl:index.htm?cus?audio
+[8] site:*.gov.in allinurl:index.php?act=publ
+[6] site:*.gov.in allinurl:links.php?t=search
+[1] site:*.gov.in allinurl: "modules/dictionary/detail.php?id"
+[1] site:*.gov.in allinurl :"modules/eblog"
+[1] site:*.gov.in allinurl:"xGb.php"
+[6] site:*.gov.in All right reserved 2002-2003 (MSN/Web Server Creator)
+[121] site:*.gov.in "All site content" ext:aspx
+[1] site:*.gov.in "and Powered By :Sansak"
+[28000] site:*.gov.in "An illegal character has been found in the statement" -"previous message"
+[2390] site:*.gov.in An unexpected token "END-OF-STATEMENT" was found
+[83] site:*.gov.in anyInventory, the most flexible and powerful web-based inventory system
+[1] site:*.gov.in "Application Blocked!" "Google bot"
+[1] site:*.gov.in "apricot - admin" 00h
+[2] site:*.gov.in ":: Arachni Web Application Security Report"
+[90500] site:*.gov.in/*.asp
+[2] site:*.gov.in ASP.login_aspx "ASP.NET_SessionId"
+[5] site:*.gov.in "ATutor 1.6.4"
+[2950] site:*.gov.in "Aurora CMS"
+[9] site:*.gov.in/auth/forgot
+[35] site:*.gov.in/auth intitle:login
+[6] site:*.gov.in/auth/login.aspx
+[861] site:*.gov.in AXIS Camera exploit
+[26500] site:*.gov.in Axis Video Manual
+[1] site:*.gov.in "Below is a rendering of the page up to the first error." ext:xml
+[323] site:*.gov.in BroadBand Device Webserver
+[7] site:*.gov.in browse_videos.php?
+[106000] site:*.gov.in "Browse with Interactive Map"
+[40] site:*.gov.in buyers_subcategories.php?IndustryID=
+[13000] site:*.gov.in "by eXtreme Crew"
+[1] site:*.gov.in calendar.asp?eventdetail
+[44] site:*.gov.in "Can't connect to local" intitle:warning
+[1] site:*.gov.in "CCCLogin.aspx"
+[3] site:*.gov.in "Certificate Practice Statement" inurl:(PDF | DOC)
+[84] site:*.gov.in "Citrix Receiver" inurl:index.html "Gateway"
+[3] site:*.gov.in ClearBudget v0.6.1
+[883] site:*.gov.in cms +inurl:login +site:"gov.in"
+[22500] site:*.gov.in CMS Made Simple
+[1490] site:*.gov.in "cms SunLight 5.2"
+[1440] site:*.gov.in "Cms.tut.su, 2009 g."
+[135] site:*.gov.in "CMS Webmanager-pro"
+[1] site:*.gov.in "CNStats 2.9"
+[9] site:*.gov.in Coldbox | contentbox | commandbox "Powered by ContentBox"
+[3220] site:*.gov.in Come from home Script ( Latest Project ) www.esmart-vision.com
+[2] site:*.gov.in com_ijoomla_rss
+[15900] site:*.gov.in "com_lmo"
+[213000] site:*.gov.in | .com | .net intitle:"index of" ftp
+[131] site:*.gov.in ''com_noticias''
+[5180000] site:*.gov.in companies' service login Login Portal
+[183000] site:*.gov.in configuration
+[89200] site:*.gov.in contacts ext:wml
+[1810] site:*.gov.in "Copyright 2004 easy-content forums"
+[801] site:*.gov.in "Copyright 2005 Affiliate Directory"
+[1] site:*.gov.in Copyright 2006-2009 Insane Visions
+[29] site:*.gov.in Copyright 2006 Â© Flax Article Manager v1.1
+[1270] site:*.gov.in "copyright 2006 Broadband Mechanics"
+[25500] site:*.gov.in Copyright 2008 Free Image & File Hosting
+[1140] site:*.gov.in Copyright 2010 My Hosting. All rights reserved
+[14500] site:*.gov.in Copyright 2010. Software Index
+[1030] site:*.gov.in Copyright Acme 2008
+[109] site:*.gov.in Copyright Â© Rotator 2008
+[156] site:*.gov.in Copyright Â© Viral Marketing 2008
+[8320] site:*.gov.in "Copyright (C) 2000 Phorum Development Team"
+[3] site:*.gov.in "Copyright (c) 2004-2006 by Simple PHP Guestbook"
+[42] site:*.gov.in "Copyright(C) CONTEC CO.LTD"
+[179] site:*.gov.in Copyright Huawei Technologies co. Ltd "Account" "Password"
+[103] site:*.gov.in " created by creato.biz "
+[1] site:*.gov.in "CREATE ROLE" + "ENCRYPTED PASSWORD" ext:sql | ext:txt | ext:ini -git -gitlab
+[274] site:*.gov.in "Create your own free webring and bring traffic to your website. Join now, it's free!"
+[71] site:*.gov.in "Creative Guestbook"
+[1] site:*.gov.in "(C) This site is NITROpowered!"
+[3800] site:*.gov.in "Cyphor (Release:" -www.cynox.ch
+[47] site:*.gov.in/Dashboard/ intitle:"login"
+[9] site:*.gov.in dcid= bn= pin code=
+[266] site:*.gov.in "Declassified and Approved for Release by" filetype: pdf
+[2390] site:*.gov.in "department" | "agency" | "government" "intitle:"login form" -youtube -template
+[2960000] site:*.gov.in "description" & "size" intitle:"index of" "owncloud"
+[4] site:*.gov.in "Desenvolvido por WeBProdZ"
+[1550] site:*.gov.in Design by Satcom Co
+[1620] site:*.gov.in "Designed and powered by AWS Sports"
+[210] site:*.gov.in Designed by:InterTech Co
+[5200000] site:*.gov.in "Designed & Developed by N.E.T E-Commerce Group. All Rights Reserved."
+[5200000] site:*.gov.in "Designed & Developed by net-finity"
+[5200000] site:*.gov.in "Designed & Developed by Zeeways.com"
+[5] site:*.gov.in "Desktop" parent intitle:index.of
+[116] site:*.gov.in "detected an internal error [IBM][CLI Driver][DB2/6000]"
+[110] site:*.gov.in "Devana is an open source project !"
+[2] site:*.gov.in "Developed by Bispage.com"
+[349] site:*.gov.in "Developed by Infoware Solutions"
+[1670] site:*.gov.in "Developed by Quate.net."
+[893] site:*.gov.in "Developed by rbk"
+[2] site:*.gov.in DevMass Shopping Cart
+[1] site:*.gov.in :DIR | intitle:index of inurl://whatsapp/
+[960] site:*.gov.in "dispatch=debugger."
+[2740] site:*.gov.in display_blog.php
+[933] site:*.gov.in "display printer status" intitle:"Home"
+[717] site:*.gov.in "Do not distribute" (ext:pdf | ext:doc | ext:docx | ext:rtf)
+[241] site:*.gov.in Doop CMS
+[2] site:*.gov.in Dork for Employees Self Service(ESS) Login Portals
+[2] site:*.gov.in Dork - inurl: "site admin"
+[110] site:*.gov.in Dork Submission
+[5840] site:*.gov.in "driven by: ASP Message Board"
+[46] site:*.gov.in "Driven by DokuWiki"
+[4] site:*.gov.in "-- Dump completed" ext:sql | ext:txt | ext:log
+[61300000] site:*.gov.in "# Dumping data for table"
+[61300000] site:*.gov.in "# Dumping data for table (username|user|users|password)"
+[1] site:*.gov.in dwsync.xml intitle:index of -gitlab -github
+[5060] site:*.gov.in "Email delivery powered by Google" ext:pdf OR ext:txt
+[66] site:*.gov.in employee "training" intitle:index.of ext:doc | pdf | xls |docx |xlsx
+[3] site:*.gov.in enable password | secret "current configuration" -intext:the
+[1] site:*.gov.in "enable secret 5" ext:txt | ext:cfg
+[1] site:*.gov.in -english -help -printing -companies -archive -wizard -pastebin -adult -keywords "Warning: this page requires Javascript. To correctly view, please enable it in your browser"
+[623] site:*.gov.in/en/login/
+[1] site:*.gov.in "error found handling the request" cocoon filetype:xml
+[1] site:*.gov.in /etc/certs + "index of /" */*
+[137] site:*.gov.in /etc/config + "index of /" /
+[78600] site:*.gov.in Events Calendar 1.1
+[14900] site:*.gov.in "Everyone should be on TV! Now you can upload 2 TV"
+[61300000] site:*.gov.in # Exploit Title: [SF Dork]
+[284000] site:*.gov.in ext:action | ext:struts | ext:do
+[8] site:*.gov.in ext:(doc | pdf | xls | txt |) (intext:confidential salary) inurl:confidential
+[51] site:*.gov.in ext:(doc | pdf | xls | txt | ps | rtf | odt | sxw | psw | ppt | pps | xml) (intext:confidential salary | intext:"budget approved") inurl:confidential
+[38] site:*.gov.in ext:pdf intext:"Category: Password Management: Hardcoded Password" intext:"Issues)"
+[2] site:*.gov.in ext:sql | ext:dbf | ext:mdb
+[5] site:*.gov.in ext:svc inurl:wsdl
+[1] site:*.gov.in ext:tpl intext:"
+[9] site:*.gov.in ext:txt | ext:log | ext:cfg "Building configuration..."
+[22] site:*.gov.in ext:txt | ext:log | ext:cfg | ext:yml "administrator:500:"
+[6980] site:*.gov.in ext:txt | ext:sql | ext:cnf | ext:config | ext:log & intext:"admin" | intext:"root" | intext:"administrator" & intext:"password" | intext:"root" | intext:"admin" | intext:"administrator"
+[1] site:*.gov.in ext:xls intext:@gmail.com intext:password
+[2] site:*.gov.in ext:xls intext:NAME intext:TEL intext:EMAIL intext:PASSWORD
+[8] site:*.gov.in ext:xlsx inurl:database
+[13000] site:*.gov.in ext:xml | ext:conf | ext:cnf | ext:reg | ext:inf | ext:rdp | ext:cfg | ext:txt | ext:ora | ext:ini
+[2] site:*.gov.in ext:yml | ext:txt | ext:env "Database Connection Information Database server ="
+[46] site:*.gov.in faqview.asp?key
+[1] site:*.gov.in "Fatal error: Call to undefined function" -reply -the -next
+[1] site:*.gov.in "fetchmailrc" intitle:"index of" -linux
+[49000] site:*.gov.in File contains Sensitive Information
+[19200] site:*.gov.in "File Manager - Current disk free"
+[63] site:*.gov.in "File Manager Version 1.0" "Coded By"
+[474] site:*.gov.in Files Containing Juicy Info
+[1610] site:*.gov.in filetype:asmx inurl:(_vti_bin|api|webservice)
+[287] site:*.gov.in filetype:asp "Custom Error Message" Category Source
+[1] site:*.gov.in filetype:asp + "[ODBC SQL"
+[0;32m[1][0m site:*.gov.in filetype:config web.config -CVS
+[0;32m[41][0m site:*.gov.in filetype:doc "Answer Key"
+[0;32m[1][0m site:*.gov.in filetype:doc inurl:"gov" intext:"default password is"
+[0;32m[274][0m site:*.gov.in filetype:docx Domain Registrar
+[0;32m[2][0m site:*.gov.in filetype:git -github.com inurl:"/.git"
+[0;32m[1][0m site:*.gov.in filetype:inc inc intext:setcookie
+[0;32m[436][0m site:*.gov.in filetype:inc php
+[0;32m[6][0m site:*.gov.in filetype:jnlp
+[0;32m[3][0m site:*.gov.in filetype:log intext:("apache2" | "htdocs")
+[0;32m[2][0m site:*.gov.in filetype:mdb inurl:"news/news"
+[0;32m[1][0m site:*.gov.in filetype:php intext:Your Email: intext:Your Name: intext:Reply-To: intext:mailer
+[0;32m[1][0m site:*.gov.in filetype:php "Notice: Undefined variable: data in" -forum
+[0;32m[3][0m site:*.gov.in filetype:png | "proportal"
+[0;32m[2][0m site:*.gov.in filetype:PS ps
+[0;32m[22][0m site:*.gov.in filetype:txt Administrator:500:
+[0;32m[98][0m site:*.gov.in filetype:txt "gmail" | "hotmail" | "yahoo" -robots
+[0;32m[3][0m site:*.gov.in filetype:txt "License Key"
+[0;32m[41][0m site:*.gov.in filetype:txt "Registration Code"
+[0;32m[4][0m site:*.gov.in filetype:wsdl wsdl
+[0;32m[6][0m site:*.gov.in filetype:xls inurl:contact
+[0;32m[1][0m site:*.gov.in filetype:xls inurl:"email.xls"
+[0;32m[3][0m site:*.gov.in filetype:xls "nomina"
+[0;32m[44][0m site:*.gov.in filetype:xls "username | password"
+[0;32m[2][0m site:*.gov.in filetype:xls username password email
+[0;32m[554][0m site:*.gov.in filetype:xml inurl:sitemap
+[0;32m[4][0m site:*.gov.in "File Upload Manager v1.3" "rename to"
+[0;32m[1][0m site:*.gov.in "FM Monitoring Receiver" intitle:"login" "welcome!"
+[0;32m[2][0m site:*.gov.in/forgetpassword.php
+[0;32m[117][0m site:*.gov.in/forgot-password
+[0;32m[7][0m site:*.gov.in/forgotpassword.php
+[0;32m[715][0m site:*.gov.in "Forum Active Bulletin Board version 1.1 béta 2"
+[0;32m[4][0m site:*.gov.in/forum/ucp.php?mode=login
+[0;32m[893][0m site:*.gov.in frmLogin
+[0;32m[40][0m site:*.gov.in FrontAccounting
+[0;32m[30][0m site:*.gov.in "FrontAccounting"
+[0;32m[61100000][0m site:*.gov.in "# -FrontPage-" ext:pwd
+[0;32m[61100000][0m site:*.gov.in "# -FrontPage-" ext:pwd inurl:(service | authors | administrators | users) "# -FrontPage-" inurl:service.pwd
+[0;32m[29][0m site:*.gov.in "Galerie 3.2 Â© 2004 by progressive"
+[0;32m[243][0m site:*.gov.in "ganglia mobile.php"
+[0;32m[4700][0m site:*.gov.in "generated by Exhibit Engine 1.5 RC 4"
+[0;32m[204][0m site:*.gov.in "Generated by phpSystem"
+[0;32m[7760][0m site:*.gov.in Google Dork
+[0;32m[2][0m site:*.gov.in Google Dork: Brother Printers Properties Page
+[0;32m[2][0m site:*.gov.in Google Dork : Index of: /services/aadhar card/
+[0;32m[61100000][0m site:*.gov.in # Google Dork: intitle:"index of" "admin" "cgi-bin"
+[0;32m[9][0m site:*.gov.in Google dorks
+[0;32m[12700][0m site:*.gov.in Google to wordpress
+[0;32m[2960][0m site:*.gov.in | .gov ext:bkf | ext:bkp | ext:bak | ext:old | ext:backup
+[0;32m[1][0m site:*.gov.in hardware | software "migration" intitle:index.of ext:xls | xlsx | doc | docx | pdf
+[0;32m[1430][0m site:*.gov.in "Help desk software by United Web Coders rev. 3.0.640"
+[0;32m[8070][0m site:*.gov.in "Host Vulnerability Summary Report"
+[0;32m[52][0m site:*.gov.in +"HSTSNR" -"netop.com"
+[0;32m[89][0m site:*.gov.in "html allowed" guestbook
+[0;32m[830][0m site:*.gov.in "HTTP_FROM=googlebot" googlebot.com "Server_Software="
+[0;32m[242][0m site:*.gov.in http intitle: admin
+[0;32m[813][0m site:*.gov.in HTTP_USER_AGENT=Googlebot
+[0;32m[5480][0m site:*.gov.in "http://*:*@www" bob:bob
+[0;32m[4690000][0m site:*.gov.in http://www.google.com/#sclient=psy&hl=en&safe=off&site=&source=hp&q=:inurl%3Amj_wwwusr&aq=f&aqi=&aql=&oq=&pbx=1&fp=2dcb6979649afcb0
+[0;32m[65][0m site:*.gov.in "IBM Security AppScan Report" ext:pdf
+[0;32m[2140][0m site:*.gov.in "Ideal BB Version: 0.1" -idealbb.com
+[0;32m[25][0m site:*.gov.in Igloo (interest group glue)
+[0;32m[2][0m site:*.gov.in "I have been invoked by servletToJSP"
+[0;32m[56800][0m site:*.gov.in i_index.shtml Ready
+[0;32m[69][0m site:*.gov.in "IMail Server Web Messaging" intitle:login
+[0;32m[8][0m site:*.gov.in "Incorrect syntax near" -the
+[0;32m[2][0m site:*.gov.in index:"html/js/editor/fckeditor/editor/filemanager/connectors"
+[0;32m[7910][0m site:*.gov.in Index:Index of /wp-admin
+[0;32m[30500][0m site:*.gov.in "Index of" "/access"
+[0;32m[4630][0m site:*.gov.in index of:admin.asp
+[0;32m[2][0m site:*.gov.in index of admin/fckeditor/editor/filemanager/
+[0;32m[137][0m site:*.gov.in index.of: /android/manifest.xml
+[0;32m[11300][0m site:*.gov.in index of: "application form" "upload"
+[0;32m[49700][0m site:*.gov.in index of: "application" "upload"
+[0;32m[1620][0m site:*.gov.in index of:"backtrack" "hack" ext:php
+[0;32m[28500][0m site:*.gov.in "Index of /backup"
+[0;32m[136][0m site:*.gov.in indexof:backup/mysql
+[0;32m[75][0m site:*.gov.in indexof:backup/web.config
+[0;32m[1][0m site:*.gov.in index of "backup.zip"
+[0;32m[2730][0m site:*.gov.in index of:"blog" "upload"
+[0;32m[20200][0m site:*.gov.in index of /cache
+[0;32m[906][0m site:*.gov.in index of: "cache" "uploads"
+[0;32m[60800][0m site:*.gov.in index of: "certificate" "upload"
+[0;32m[10100][0m site:*.gov.in index of: "certificate" "wp-content"
+[0;32m[18200][0m site:*.gov.in "index of cgi-bin"
+[0;32m[1][0m site:*.gov.in "Index of" / "chat/logs"
+[0;32m[364][0m site:*.gov.in index of /ckeditor
+[0;32m[6390][0m site:*.gov.in index of: "confidential" "uploads"
+[0;32m[9810][0m site:*.gov.in index of: /config
+[0;32m[12500][0m site:*.gov.in index of: "contracts" "uploads"
+[0;32m[1][0m site:*.gov.in index.of "crossdomain.xml"
+[0;32m[21900][0m site:*.gov.in index of:"customer/login"
+[0;32m[6][0m site:*.gov.in "index of" "database_log"
+[0;32m[7][0m site:*.gov.in "Index of" "database.sql"
+[0;32m[67][0m site:*.gov.in index.of.dcim
+[0;32m[11500][0m site:*.gov.in index of: "documents" "wp-content"
+[0;32m[42][0m site:*.gov.in "index of" error_logs
+[0;32m[375000][0m site:*.gov.in index.of.etc
+[0;32m[238][0m site:*.gov.in index of /etc/certs/
+[0;32m[5150][0m site:*.gov.in "index of" :excel documents
+[0;32m[65][0m site:*.gov.in "index of" "fileadmin"
+[0;32m[1][0m site:*.gov.in index of "fileadmin/php"
+[0;32m[1][0m site:*.gov.in "index of" filetype:env
+[0;32m[4080][0m site:*.gov.in index.of.?.frm
+[0;32m[599][0m site:*.gov.in "index of" /ftp/logs
+[0;32m[1][0m site:*.gov.in indexof:.htaccess
+[0;32m[2020][0m site:*.gov.in index of /htdocs
+[0;32m[1][0m site:*.gov.in "index of" intext:fckeditor inurl:fckeditor
+[0;32m[1][0m site:*.gov.in "index of /" intext:wp-config "zip"
+[0;32m[51][0m site:*.gov.in "Index of" inurl:"/.Bin/"
+[0;32m[1][0m site:*.gov.in "index of" inurl:database ext:sql | xls | xml | json | csv
+[0;32m[1][0m site:*.gov.in "Index of" inurl:phpmyadmin
+[0;32m[2][0m site:*.gov.in index of / inurl:/pki/
+[0;32m[7][0m site:*.gov.in "index of" inurl:sym
+[0;32m[1][0m site:*.gov.in "Index of" inurl:webalizer
+[0;32m[15000][0m site:*.gov.in index of: "invoice" "upload"
+[0;32m[112][0m site:*.gov.in "index of" / lck
+[0;32m[23800][0m site:*.gov.in index of: "license" "upload"
+[0;32m[3360][0m site:*.gov.in index of logs.tar
+[0;32m[26300][0m site:*.gov.in index of "logs.zip"
+[0;32m[324][0m site:*.gov.in index of: "marksheet" "upload"
+[0;32m[31000][0m site:*.gov.in "Index of" "/monitoring"
+[0;32m[477][0m site:*.gov.in "Index Of /network" "last modified"
+[0;32m[1][0m site:*.gov.in index of /node_modules/ -github -stackoverflow
+[0;32m[734][0m site:*.gov.in index of: "parent directory" "uploads"
+[0;32m[9240][0m site:*.gov.in index of: "participants" "uploads"
+[0;32m[326][0m site:*.gov.in index.of passlist
+[0;32m[334000][0m site:*.gov.in index.of.password
+[0;32m[3010][0m site:*.gov.in index of:"password" "wp-content"
+[0;32m[175][0m site:*.gov.in index.of:"pcap"
+[0;32m[2][0m site:*.gov.in "index of" "performance_schema"
+[0;32m[3360][0m site:*.gov.in index.of perform.ini
+[0;32m[111][0m site:*.gov.in index of : "phonebook "
+[0;32m[3][0m site:*.gov.in "index of" / picasa.ini
+[0;32m[294000][0m site:*.gov.in index.of.private
+[0;32m[4][0m site:*.gov.in "index of /private"
+[0;32m[9700][0m site:*.gov.in "index of" /private/logs
+[0;32m[70000][0m site:*.gov.in index.of.protected
+[0;32m[660][0m site:*.gov.in index of: "putty" "uploads"
+[0;32m[30][0m site:*.gov.in index of: "QRcodes" "uploads"
+[0;32m[2][0m site:*.gov.in "Index of" rar r01 nfo Modified 2004
+[0;32m[26700][0m site:*.gov.in index.of.secret
+[0;32m[144000][0m site:*.gov.in index.of.secure
+[0;32m[5150][0m site:*.gov.in index of:"seller/login"
+[0;32m[21300][0m site:*.gov.in Index of: /services/pancard/
+[0;32m[770][0m site:*.gov.in "index of" "siri"
+[0;32m[249][0m site:*.gov.in "index of sqlite"
+[0;32m[2][0m site:*.gov.in "index of" "sshd_config"
+[0;32m[14500][0m site:*.gov.in index of /storage/logs/
+[0;32m[225][0m site:*.gov.in index of storage/oauth-private.key
+[0;32m[469][0m site:*.gov.in "index of" "svg"
+[0;32m[3690][0m site:*.gov.in Index of /.svn
+[0;32m[39][0m site:*.gov.in index of .svn/text-base/index.php.svn-base
+[0;32m[5][0m site:*.gov.in index of : "truecaller" "uploads"
+[0;32m[4][0m site:*.gov.in "index of /" ( upload.cfm | upload.asp | upload.php | upload.cgi | upload.jsp | upload.pl )
+[0;32m[2240][0m site:*.gov.in index of :"uploads" "parent" "salary" intext:salary
+[0;32m[9][0m site:*.gov.in index of /wp-admin.zip
+[0;32m[61][0m site:*.gov.in index of :wp-config.zip
+[0;32m[91][0m site:*.gov.in index of /wp-content/themes/avada
+[0;32m[6][0m site:*.gov.in index of /wp-content/themes/onetone/
+[0;32m[214][0m site:*.gov.in "index of" /wp-content/uploads/shell.php
+[0;32m[1][0m site:*.gov.in index of /wp-content/uploads/userpro
+[0;32m[9][0m site:*.gov.in/index.php/login intitle:"login"
+[0;32m[499][0m site:*.gov.in index.php?option=com_is
+[0;32m[6830][0m site:*.gov.in Index: /wp-includes/Text/Diff
+[0;32m[152][0m site:*.gov.in infusions/manuals/manuals.php?manual=
+[0;32m[2][0m site:*.gov.in infusions/raidtracker_panel/thisraidprogress.php?
+[0;32m[1][0m site:*.gov.in infusions/recept/recept.php?
+[0;32m[5][0m site:*.gov.in "insert into users" "VALUES" ext:sql | ext:txt | ext:log | ext:env
+[0;32m[1][0m site:*.gov.in insite: SmarterMail Enterprise 7.1
+[0;32m[57000][0m site:*.gov.in "Instant Free File Uploader"
+[0;32m[1340][0m site:*.gov.in "Internal Server Error" "server at"
+[0;32m[3][0m site:*.gov.in "Internet Photoshow - Slideshow"
+[0;32m[9210][0m site:*.gov.in intext:"2009 PLANET Technology Corporation"
+[0;32m[99][0m site:*.gov.in intext:" - 2019 Cott Systems, Inc."
+[0;32m[1][0m site:*.gov.in intext:"Access denied for" intitle:"Shopping cart"
+[0;32m[576000][0m site:*.gov.in intext:"admin" AND "login" | "sign in" AND "©" AND "rights reserved"
+[0;32m[60][0m site:*.gov.in intext:"Admin Login" inurl:"/login.aspx"
+[0;32m[4][0m site:*.gov.in intext:"adobe coldfusion 8"
+[0;32m[502000][0m site:*.gov.in intext:"Any time & Any where" AND "Customer Login"
+[0;32m[502000][0m site:*.gov.in intext:"Any time & Any where" intext:"Username" intext:"Password" intext:login intext:"View: Mobile | PC"
+[0;32m[340][0m site:*.gov.in intext:"ArcGIS REST Services Directory" intitle:"Folder: /"
+[0;32m[4][0m site:*.gov.in intext:"aspx" filetype:txt login & password
+[0;32m[5][0m site:*.gov.in intext:"Atlassian Jira Project Management Software" Jira login
+[0;32m[34400][0m site:*.gov.in intext:"Build dashboard" intext:"Project" intext:"Plan" intext:"Build"
+[0;32m[3630][0m site:*.gov.in intext:"CAD Media Log"
+[0;32m[2][0m site:*.gov.in intext:"Centreon 2005-2019"
+[0;32m[2][0m site:*.gov.in intext:"(c) GUnet 2003-2007"
+[0;32m[1][0m site:*.gov.in intext:"Cisco Webui - Login" -www -cisco.com
+[0;32m[1][0m site:*.gov.in intext:Computer Misuse Act inurl:login.aspx
+[0;32m[84][0m site:*.gov.in intext:connectionString & inurl:web & ext:config
+[0;32m[3][0m site:*.gov.in intext: Copyright+MantisBT Group
+[0;32m[7][0m site:*.gov.in intext:cv OR intext:curriculum vitae "passport details" ext:doc -template
+[0;32m[437][0m site:*.gov.in intext:"default values: admin/1234"
+[0;32m[5820][0m site:*.gov.in intext:"Design by BB Media.Org"
+[0;32m[643][0m site:*.gov.in intext:"Design by MMA Creative"
+[0;32m[290][0m site:*.gov.in intext:Design by: runt communications
+[0;32m[2410000][0m site:*.gov.in intext:" Design & Developed by Antique Touch - INDIA"
+[0;32m[3150][0m site:*.gov.in intext:"docs.google.com/forms/d/"
+[0;32m[19800][0m site:*.gov.in intext:"Dumping data for table `orders`"
+[0;32m[1][0m site:*.gov.in intext:"enable secret 5 $"
+[0;32m[1890][0m site:*.gov.in intext:"English for dummies"
+[0;32m[1940][0m site:*.gov.in intext:"Error Message : Error loading required libraries."
+[0;32m[21300][0m site:*.gov.in intext:"Error Occurred While Processing Request"
+[0;32m[6170][0m site:*.gov.in intext:"EWS Data Collection and Use"
+[0;32m[5][0m site:*.gov.in intext:"expects parameter 1 to be resource, boolean given" filetype:php
+[0;32m[126][0m site:*.gov.in intext:"Fill out the form below completely to change your password and user name. If new username is left blank, your old one will be assumed." -edu
+[0;32m[3][0m site:*.gov.in intext:"Hello visitor from" ext:asp
+[0;32m[1][0m site:*.gov.in intext:"helpdesk software provided by deskpro"
+[0;32m[150][0m site:*.gov.in intext:http | https intext:login | logon intext:password | passcode filetype:xls | filetype:xlsx
+[0;32m[31700][0m site:*.gov.in intext:"I'm using a public or shared computer" & intext:"Remote Web Workplace"
+[0;32m[126][0m site:*.gov.in intext:"Incom CMS 2.0"
+[0;32m[453][0m site:*.gov.in intext:"index of" "config"
+[0;32m[1][0m site:*.gov.in intext:"index of /" "config.json"
+[0;32m[1][0m site:*.gov.in intext:"Index of /database"
+[0;32m[996][0m site:*.gov.in intext:"index of" "ftp"
+[0;32m[8][0m site:*.gov.in intext:"index of" ".git"
+[0;32m[9][0m site:*.gov.in intext:"Index of /.git"
+[0;32m[1][0m site:*.gov.in (intext:"index of /.git") ("parent directory")
+[0;32m[2][0m site:*.gov.in intext:"index of" "home_page"
+[0;32m[201][0m site:*.gov.in intext:"index of" ".html"
+[0;32m[2][0m site:*.gov.in intext:"index of" "httpclient" "login"
+[0;32m[640][0m site:*.gov.in intext:"Index of" intext:"backend/"
+[0;32m[1][0m site:*.gov.in intext:"Index of" intext:"backup.tar"
+[0;32m[6][0m site:*.gov.in intext:"Index of" intext:"bitbucket-pipelines.yml"
+[0;32m[1][0m site:*.gov.in intext:"Index of" intext:"config.zip"
+[0;32m[36000][0m site:*.gov.in intext:"Index of" intext:"/etc"
+[0;32m[369][0m site:*.gov.in intext:"Index of" intext:"plugin/"
+[0;32m[5680][0m site:*.gov.in intext:"Index of" intitle:"index of"
+[0;32m[7][0m site:*.gov.in intext:"index of" "ipaddress"
+[0;32m[4070][0m site:*.gov.in intext:"index of" "logs"
+[0;32m[29300][0m site:*.gov.in intext:"Index of /password"
+[0;32m[2890][0m site:*.gov.in intext:"index of" "payroll"
+[0;32m[4][0m site:*.gov.in intext:"index of" "phpinfo"
+[0;32m[3][0m site:*.gov.in intext:"index of" "phpMyAdmin"
+[0;32m[5780][0m site:*.gov.in intext:"index of" "repository"
+[0;32m[5770][0m site:*.gov.in intext:"index of" "shell"
+[0;32m[37][0m site:*.gov.in intext:"index of" "signin"
+[0;32m[2][0m site:*.gov.in intext:"index of" smb.conf
+[0;32m[2][0m site:*.gov.in intext:"index of" ".sql"
+[0;32m[2070][0m site:*.gov.in intext:index of sym
+[0;32m[158][0m site:*.gov.in intext:"index of/" "top secret" gov
+[0;32m[10700][0m site:*.gov.in intext:"index of" "transaction"
+[0;32m[8560][0m site:*.gov.in intext:"index of" "uploads"
+[0;32m[1][0m site:*.gov.in intext:"index of" "user-config"
+[0;32m[224][0m site:*.gov.in intext:"index of /userfiles/file/"
+[0;32m[7][0m site:*.gov.in intext:"index of /" "*.yaml"
+[0;32m[873][0m site:*.gov.in intext:"INTERNAL USE ONLY" ext:doc OR ext:pdf OR ext:xls OR ext:xlsx
+[0;32m[169000][0m site:*.gov.in intext: intext: intext: intext: intext:
+[0;32m[4][0m site:*.gov.in intext:"Kalimat news system v 1.0"
+[0;32m[2][0m site:*.gov.in intext:"Launch FortiClient" and "Please Login"
+[0;32m[6080][0m site:*.gov.in intext:"login" department | admin | manager | company | host filetype:xls | xlsx -community -github
+[0;32m[53600][0m site:*.gov.in intext:"login" intitle:"login"
+[0;32m[23][0m site:*.gov.in intext:"Login | Password" AND intext:"Powered by | username" AND intext:Drupal AND inurl:user
+[0;32m[1][0m site:*.gov.in (intext:mail AND intext:samAccountName) AND (filetype:xlsx OR filetype:xls OR filetype:csv OR filetype:txt)
+[0;32m[9][0m site:*.gov.in intext:Modified files in JOE when it aborted on JOE was aborted because the terminal closed
+[0;32m[15300][0m site:*.gov.in intext:"Not to be distributed" ext:doc OR ext:pdf OR ext:xls OR ext:xlsx
+[0;32m[4140][0m site:*.gov.in intext:"Number of Requests for items accessed on this Server"
+[0;32m[5][0m site:*.gov.in intext:OLD_FOREIGN_KEY_CHECKS"; = ext:txt
+[0;32m[30100][0m site:*.gov.in intext:"Open Game Panel 2021"
+[0;32m[1][0m site:*.gov.in intext " organisation data" filetype:xls
+[0;32m[343][0m site:*.gov.in intext:pass filetype:txt
+[0;32m[37][0m site:*.gov.in intext:"password" intitle:"index of"
+[0;32m[2][0m site:*.gov.in intext:"paytm" intitle:"index of"
+[0;32m[2350000][0m site:*.gov.in intext:pin | userid & password intitle:supplier | supply & login | portal
+[0;32m[2][0m site:*.gov.in intext:piwik "login"
+[0;32m[4][0m site:*.gov.in intext:piwik "Sign in"
+[0;32m[51][0m site:*.gov.in intext:"please change your" password |code | login file:pdf | doc | txt | docx -github
+[0;32m[1][0m site:*.gov.in intext:"Please enable JavaScript in your browser before using Citrix Receiver." AND intext:www.citrix.com
+[0;32m[87][0m site:*.gov.in intext:"Please enter the device's administrator password"
+[0;32m[6][0m site:*.gov.in intext:"Please enter your new password" inurl:login filetype:php
+[0;32m[6][0m site:*.gov.in intext:"please enter your username and password" inurl:login filetype:php
+[0;32m[204][0m site:*.gov.in intext:"please find attached" "login" | password ext:pdf
+[0;32m[1][0m site:*.gov.in intext:"Please Login" inurl:"/remote/login"
+[0;32m[1670][0m site:*.gov.in intext:"Please select file to upload:" ext:php
+[0;32m[1][0m site:*.gov.in intext:"Please select your account" intext:"SSL Login"
+[0;32m[4][0m site:*.gov.in intext:"pLink 2.07"
+[0;32m[1480][0m site:*.gov.in intext:"powered and designed by Dow Group"
+[0;32m[5100][0m site:*.gov.in intext:"Powered by Community CMS"
+[0;32m[339][0m site:*.gov.in intext:Powered by CPA Site Solutions
+[0;32m[3450][0m site:*.gov.in intext:"Powered by DEV web management system" -dev-wms.sourceforge.net -demo
+[0;32m[1][0m site:*.gov.in intext:"powered by enboard" "portal"
+[0;32m[51][0m site:*.gov.in intext:"Powered by Firebrand Technologies"
+[0;32m[4][0m site:*.gov.in intext:"Powered By Gila CMS"
+[0;32m[1460][0m site:*.gov.in intext:Powered by Infront
+[0;32m[1770][0m site:*.gov.in intext:"Powered by " inurl:/login
+[0;32m[43][0m site:*.gov.in intext:"Powered by Inventory Mojo Software."
+[0;32m[1][0m site:*.gov.in intext:"powered by itaco group"
+[0;32m[365][0m site:*.gov.in intext:"Powered by Lore 1.5.6"
+[0;32m[1][0m site:*.gov.in intext: "Powered by Marinet"
+[0;32m[1920][0m site:*.gov.in intext:"Powered by Max.Blog"
+[0;32m[1][0m site:*.gov.in intext:Powered by Mobilelib Gold v3
+[0;32m[92][0m site:*.gov.in intext:"Powered by Nesta"
+[0;32m[4][0m site:*.gov.in intext:"Powered By OpenCart" -inurl:"Powered By OpenCart" -intitle:"OpenCart" -intitle:"powered by"
+[0;32m[1980][0m site:*.gov.in intext:"Powered by Piwigo"
+[0;32m[4][0m site:*.gov.in intext:"Powered by Plogger!" -plogger.org
+[0;32m[4][0m site:*.gov.in intext:"Powered by Plogger!" -plogger.org -ihackstuff -exploit
+[0;32m[1860][0m site:*.gov.in intext:"Powered by (Quantum | Quantum CMS | CMS)
+[0;32m[4300][0m site:*.gov.in intext:"Powered by the 1-2-3 music store"
+[0;32m[1][0m site:*.gov.in intext:"powered by tincan ltd"
+[0;32m[4][0m site:*.gov.in intext:"Powered by Typesetter"
+[0;32m[388][0m site:*.gov.in intext:"Powered by: Virtual War v1.5.0"
+[0;32m[275][0m site:*.gov.in intext:"powered by Web Wiz Journal"
+[0;32m[83][0m site:*.gov.in intext:"Powered by www.yawcam.com"
+[0;32m[1140][0m site:*.gov.in intext:"Powered by X-Cart: shopping cart software" -cart.com
+[0;32m[1][0m site:*.gov.in intext:Project hosted at: For support, contact: Copyright Openbravo
+[0;32m[38][0m site:*.gov.in intext:Provided by ProjectSend
+[0;32m[28][0m site:*.gov.in intext:"Ready with 10/100T Ethernet"
+[0;32m[23][0m site:*.gov.in intext:"Resource dumped by" intext:jcr
+[0;32m[1][0m site:*.gov.in intext:"Roundcube Webmail" intitle:"Welcome to Roundcube Webmail"
+[0;32m[1130][0m site:*.gov.in intext:"series Network Configuration" AND intext:"canon"
+[0;32m[41][0m site:*.gov.in intext:"Service provided by Horos."
+[0;32m[2][0m site:*.gov.in intext:"Set objConn=Server.CreateObject("ADODB.Connection")" ext:asp
+[0;32m[1][0m site:*.gov.in intext:"Sign in with your organizational account" login -github.com
+[0;32m[14800][0m site:*.gov.in intext: "Site developed & mantained by Woodall Creative Group"
+[0;32m[28][0m site:*.gov.in intext:"sitemap" filetype:txt
+[0;32m[1][0m site:*.gov.in intext:smtp | pop3 intext:login | logon intext:password | passcode filetype:xls | filetype:xlsx
+[0;32m[21400][0m site:*.gov.in intext:"SQL" && "DB" inurl:"/runtime/log/"
+[0;32m[2080][0m site:*.gov.in intext:SQL syntax & inurl:index.php?=id & inurl:gov & inurl:gov
+[0;32m[36][0m site:*.gov.in intext:"Storage Management Server for" intitle:"Server Administration"
+[0;32m[6][0m site:*.gov.in intext:"successfully" intitle:"index of" config | log | logged -stackoverflow
+[0;32m[1][0m site:*.gov.in intext:"Sw Bilgi" ext:php
+[0;32m[408][0m site:*.gov.in intext:"Target Multicast Group" "beacon"
+[0;32m[2390][0m site:*.gov.in intext:"Thank you for using BIG-IP."
+[0;32m[78700][0m site:*.gov.in intext:"This computer system is the property of" -error
+[0;32m[3][0m site:*.gov.in intext:"This is the default welcome page used to test the correct operation of the Apache2 server"
+[0;32m[4370][0m site:*.gov.in intext:"This page displays the general system information of the print server."
+[0;32m[22800][0m site:*.gov.in intext:[To Parent Directory] & ext:sql | ext:cnf | ext:config | ext:log
+[0;32m[72][0m site:*.gov.in intext:"Unexpected Problem Occurred!" ext:aspx
+[0;32m[463][0m site:*.gov.in intext:"untitled" intext:"admin" filetype:php
+[0;32m[416][0m site:*.gov.in intext:"untitled" intext:"login" filetype:php
+[0;32m[177][0m site:*.gov.in intext:"untitled" intext:"password" filetype:php
+[0;32m[66500][0m site:*.gov.in intext:(username | user | email | sign on | login | auth) admin dashboard | panel -stackoverflow
+[0;32m[1][0m site:*.gov.in intext:"Videoconference Management System" ext:htm
+[0;32m[154][0m site:*.gov.in intext:"Warning: Failed opening" "on line" "include_path"
+[0;32m[1][0m site:*.gov.in +intext:"webalizer" +intext:"Total Usernames" +intext:"Usage Statistics for"
+[0;32m[1][0m site:*.gov.in intext:"Web Application Report" intext:"This report was created by IBM Security AppScan" ext:pdf
+[0;32m[6][0m site:*.gov.in intext:"/webdynpro/resources/sap.com/"
+[0;32m[46][0m site:*.gov.in intext:"Welcome Admin"
+[0;32m[4980][0m site:*.gov.in intext:"Welcome! Log in or create an account to continue."
+[0;32m[6570][0m site:*.gov.in intext:"Welcome Site/User Administrator"
+[0;32m[1][0m site:*.gov.in intext:"Welcome to CodeIgniter!"
+[0;32m[45][0m site:*.gov.in intext:"Welcome to Huawei web page for network configuration."
+[0;32m[1380][0m site:*.gov.in intext:"Welcome to Intranet" "login"
+[0;32m[1][0m site:*.gov.in intext:"Welcome to JIRA" "Powered by a free Atlassian Jira community"
+[0;32m[2][0m site:*.gov.in intext:"wordpress" filetype:xls login & password
+[0;32m[3][0m site:*.gov.in intext:"You may also donate through the Moneybookers account mb@dd-wrt"
+[0;32m[3][0m site:*.gov.in intext:"Your client connection" + "Network name" + "Hardware address"
+[0;32m[2][0m site:*.gov.in intitle: "access log" filetype: txt
+[0;32m[209][0m site:*.gov.in intitle:access your account" login
+[0;32m[348][0m site:*.gov.in intitle:admin intitle:login
+[0;32m[2][0m site:*.gov.in intitle:"ADMINISTRATOR LOGIN" inurl:adminlogin
+[0;32m[128][0m site:*.gov.in intitle: admin login
+[0;32m[2][0m site:*.gov.in intitle:adminlogin inurl:login
+[0;32m[46][0m site:*.gov.in intitle:"Admin Login" inurl:"login.aspx"
+[0;32m[2][0m site:*.gov.in intitle:"admin panel" OR intitle:"request password" intext:"email address"
+[0;32m[102][0m site:*.gov.in intitle:"Admin portal"
+[0;32m[1][0m site:*.gov.in intitle:"Apache Status" | intext:"Apache Server Status"
+[0;32m[2][0m site:*.gov.in intitle:"Apache::Status" (inurl:server-status | inurl:status.html | inurl:apache.html)
+[0;32m[4][0m site:*.gov.in intitle:"Apache Tomcat" "Error Report"
+[0;32m[1][0m site:*.gov.in intitle:"apache tomcat/" + "Find additional important configuration information in:"
+[0;32m[311][0m site:*.gov.in intitle:backup+index of
+[0;32m[1][0m site:*.gov.in intitle:"BMC Remedy Mid Tier" "login"
+[0;32m[1][0m site:*.gov.in intitle:"bugs" Analysis Report
+[0;32m[1][0m site:*.gov.in intitle:"CMS" inurl:"login.php"
+[0;32m[3][0m site:*.gov.in intitle:Control Panel "Login with your username and password below." +"Email" +"Powered by"
+[0;32m[4][0m site:*.gov.in intitle:"curriculum vitae" filetype:doc
+[0;32m[251][0m site:*.gov.in intitle:cyber anarchy shell
+[0;32m[3][0m site:*.gov.in intitle:"DEVICE" "Real-time IP Camera Monitoring System"
+[0;32m[109][0m site:*.gov.in intitle:"Directory Listing For" intext:Tomcat -int
+[0;32m[1][0m site:*.gov.in intitle:"Directory Listing For /" + inurl:webdav tomcat
+[0;32m[303][0m site:*.gov.in intitle:.*edu/login
+[0;32m[112][0m site:*.gov.in intitle:"Employee Login" & inurl:("login.aspx" | "login.asp")
+[0;32m[1][0m site:*.gov.in intitle:"Exchange Log In"
+[0;32m[2][0m site:*.gov.in intitle:"faculty login"
+[0;32m[3][0m site:*.gov.in intitle:FootPrints Login | inurl:/MRcgi/MRentrancePage.pl
+[0;32m[1][0m site:*.gov.in intitle:Global Traffic Statistics "Ntop"
+[0;32m[1][0m site:*.gov.in intitle:Hikvision login page
+[0;32m[437][0m site:*.gov.in intitle:"IIS Windows Server"
+[0;32m[452][0m site:*.gov.in intitle:"IIS Windows Server" -inurl:"IIS Windows Server"
+[0;32m[41][0m site:*.gov.in intitle:"index" intext:"Login to the Administrative Interface"
+[0;32m[63][0m site:*.gov.in intitle: "index" inurl: log
+[0;32m[5730][0m site:*.gov.in intitle:"index of"
+[0;32m[20100][0m site:*.gov.in intitle:index of
+[0;32m[20100][0m site:*.gov.in intitle:Index of
+[0;32m[5230][0m site:*.gov.in intitle:"index of"|"access_token.json"
+[0;32m[177][0m site:*.gov.in intitle:"index of" *.admin
+[0;32m[261][0m site:*.gov.in intitle:"index of" admin
+[0;32m[1][0m site:*.gov.in intitle: "index of" "admin" "/backup"
+[0;32m[1][0m site:*.gov.in intitle:"index of" *.admin.password
+[0;32m[2][0m site:*.gov.in intitle:"index of" " admin.php "
+[0;32m[5][0m site:*.gov.in intitle:index.of /AlbumArt_
+[0;32m[42][0m site:*.gov.in intitle:"index of" AND inurl:magento AND inurl:/dev
+[0;32m[797][0m site:*.gov.in intitle:"index of" "Apache/2.4.41 (Ubuntu) Server"
+[0;32m[716][0m site:*.gov.in intitle:index.of "Apache" "server at"
+[0;32m[5][0m site:*.gov.in intitle:"index of" api_key OR "api key" OR apiKey -pool
+[0;32m[20][0m site:*.gov.in intitle:"index of" *.apk
+[0;32m[1][0m site:*.gov.in intitle:"index of" "application.properties"
+[0;32m[83][0m site:*.gov.in intitle:"Index.of" "attachments"
+[0;32m[4][0m site:*.gov.in intitle:"index of" aws/
+[0;32m[1][0m site:*.gov.in intitle:index of "aws/credentials"
+[0;32m[1][0m site:*.gov.in intitle:"index of" "/aws.s3/"
+[0;32m[1][0m site:*.gov.in intitle: index of "awstats"
+[0;32m[1][0m site:*.gov.in intitle: Index of /awstats/data
+[0;32m[1][0m site:*.gov.in intitle:"index of" "backup.js"
+[0;32m[6][0m site:*.gov.in intitle: "index of backup.php"
+[0;32m[40][0m site:*.gov.in intitle:index of /backup private
+[0;32m[4][0m site:*.gov.in intitle:"index of" "backup.yml"
+[0;32m[4][0m site:*.gov.in intitle:index.of.?.bak
+[0;32m[1][0m site:*.gov.in intitle:"index of" ./bash_history
+[0;32m[1][0m site:*.gov.in intitle:index.of .bash_history
+[0;32m[1][0m site:*.gov.in intitle: index of /bin/php.ini
+[0;32m[3][0m site:*.gov.in intitle: "index of" "./" "./bitcoin"
+[0;32m[2][0m site:*.gov.in intitle:"index of" "/bitcoin/"
+[0;32m[1][0m site:*.gov.in intitle:index.of "cacert.pem"
+[0;32m[9][0m site:*.gov.in intitle:"index of" "cctv"
+[0;32m[6][0m site:*.gov.in intitle:"Index of cd"
+[0;32m[115][0m site:*.gov.in intitle:"index of" "certificates"
+[0;32m[3][0m site:*.gov.in intitle:"index of" "checkout"
+[0;32m[9][0m site:*.gov.in intitle:"index of" "composer.lock"
+[0;32m[1][0m site:*.gov.in intitle:"index of" "config.html"
+[0;32m[8][0m site:*.gov.in intitle:"index of" " *config.php "
+[0;32m[6][0m site:*.gov.in intitle:"index of" "config.php"
+[0;32m[8][0m site:*.gov.in intitle:index.of config.php
+[0;32m[110][0m site:*.gov.in intitle:"index of" "console"
+[0;32m[3][0m site:*.gov.in intitle:"index of" /content/uploads/ -inurl:/wp-content/uploads/
+[0;32m[7][0m site:*.gov.in intitle:"index of" "credentials"
+[0;32m[737][0m site:*.gov.in intitle:"index of" "css"
+[0;32m[586][0m site:*.gov.in intitle:"index of" *.css
+[0;32m[52][0m site:*.gov.in intitle:"index of" *.csv
+[0;32m[801][0m site:*.gov.in intitle:"index of" "data*"
+[0;32m[753][0m site:*.gov.in intitle:"index of" *.data
+[0;32m[70][0m site:*.gov.in intitle:index.of.?.database
+[0;32m[3][0m site:*.gov.in intitle: "index of data clinic"
+[0;32m[134][0m site:*.gov.in intitle:"index of" "db"
+[0;32m[135][0m site:*.gov.in intitle:"index of" *.db
+[0;32m[137][0m site:*.gov.in intitle:index.of db
+[0;32m[137][0m site:*.gov.in intitle:index.of.?.db
+[0;32m[1][0m site:*.gov.in intitle:"Index of" db.inc
+[0;32m[1][0m site:*.gov.in intitle:"index of" "debug.log" OR "debug-log"
+[0;32m[41][0m site:*.gov.in intitle:"index of" *.doc
+[0;32m[1][0m site:*.gov.in intitle:"index of "docker-compose.yml"
+[0;32m[1][0m site:*.gov.in intitle:"index of" docker-compose.yml
+[0;32m[2][0m site:*.gov.in intitle:"index of" "document*.pdf"
+[0;32m[177][0m site:*.gov.in intitle:"index of" *Dokuments"
+[0;32m[8][0m site:*.gov.in intitle:"index of" drupal
+[0;32m[3][0m site:*.gov.in intitle.index of .env
+[0;32m[2][0m site:*.gov.in intitle:"index of" .env
+[0;32m[1][0m site:*.gov.in intitle:"index of" ".env.example"
+[0;32m[90][0m site:*.gov.in intitle:"index of" ".env" OR "pass"
+[0;32m[3][0m site:*.gov.in intitle:Index.of etc shadow
+[0;32m[3][0m site:*.gov.in intitle.index of .exe
+[0;32m[112][0m site:*.gov.in intitle:"index of" "extra"
+[0;32m[1][0m site:*.gov.in intitle:"index of" " fileadmin "
+[0;32m[132][0m site:*.gov.in intitle:"index of" "filelist.xml"
+[0;32m[7][0m site:*.gov.in intitle: "index of /files clients"
+[0;32m[3][0m site:*.gov.in intitle:"index of" "fsi"
+[0;32m[1][0m site:*.gov.in intitle:"index of" " gettext"
+[0;32m[2][0m site:*.gov.in {intitle: indexof/.git }
+[0;32m[43][0m site:*.gov.in intitle:"index of" ".gitignore"
+[0;32m[4][0m site:*.gov.in intitle:"index of" " glimpse "
+[0;32m[499][0m site:*.gov.in intitle: "index of Health Records"
+[0;32m[25][0m site:*.gov.in intitle:index.of home/000~root~000/
+[0;32m[1][0m site:*.gov.in intitle:"Index of /" +.htaccess
+[0;32m[3][0m site:*.gov.in intitle:"index of" "htdocs"
+[0;32m[212][0m site:*.gov.in intitle:"index of" include/
+[0;32m[23][0m site:*.gov.in intitle: "index of" "includes"
+[0;32m[3][0m site:*.gov.in intitle:"index.of" intext:"api.txt"
+[0;32m[101][0m site:*.gov.in intitle:"index of /" intext:/backup
+[0;32m[1][0m site:*.gov.in intitle:index.of intext:.bash_history
+[0;32m[7][0m site:*.gov.in intitle:"index of" intext:credentials
+[0;32m[8][0m site:*.gov.in intitle:"index of /" intext:".db
+[0;32m[352][0m site:*.gov.in intitle:"index of /" intext:/Download/
+[0;32m[3][0m site:*.gov.in intitle: "index of" intext: human resources
+[0;32m[365][0m site:*.gov.in intitle:"index of" intext:"Includes
+[0;32m[9][0m site:*.gov.in intitle: "Index of" intext:log
+[0;32m[6][0m site:*.gov.in intitle:"index of" intext:user inurl:data
+[0;32m[1][0m site:*.gov.in intitle:"index of" intext:"web.xml"
+[0;32m[76][0m site:*.gov.in intitle:index.of (inurl:admin | intitle:admin)
+[0;32m[2][0m site:*.gov.in intitle:"index of" inurl:documents backup
+[0;32m[21][0m site:*.gov.in intitle:"index of" -inurl:htm -inurl:html mp3
+[0;32m[1][0m site:*.gov.in intitle:"Index of /" inurl:passport
+[0;32m[1][0m site:*.gov.in intitle:" index of "/Invoices*"
+[0;32m[3][0m site:*.gov.in intitle:"index of" /ipa
+[0;32m[220][0m site:*.gov.in intitle.index of .log
+[0;32m[73][0m site:*.gov.in intitle:index.of.?.login
+[0;32m[44][0m site:*.gov.in intitle:"index of" "logs"
+[0;32m[43][0m site:*.gov.in intitle:"index of" "metadata"
+[0;32m[126][0m site:*.gov.in intitle:"index of" :mobile number
+[0;32m[25][0m site:*.gov.in intitle:"index of" "*.mp4"
+[0;32m[4][0m site:*.gov.in intitle:"index of" "/mysql"
+[0;32m[4][0m site:*.gov.in intitle:index.of.?.mysql
+[0;32m[1][0m site:*.gov.in intitle:"index of" "passwords" gov
+[0;32m[2][0m site:*.gov.in intitle:"Index of" passwords modified
+[0;32m[1][0m site:*.gov.in intitle:"Index of" password.txt
+[0;32m[36][0m site:*.gov.in intitle:"index of" "passwrod*"
+[0;32m[40][0m site:*.gov.in intitle"index of" "php"
+[0;32m[843][0m site:*.gov.in intitle:"index of" "*.php"
+[0;32m[848][0m site:*.gov.in intitle:"index of" *.php
+[0;32m[2][0m site:*.gov.in intitle:"Index of" phpinfo.php
+[0;32m[1][0m site:*.gov.in intitle:"Index of" phpmyadmin
+[0;32m[1][0m site:*.gov.in intitle:"index of /phpmyadmin" modified
+[0;32m[39][0m site:*.gov.in intitle:"index of" ".phpunit.xml"
+[0;32m[79][0m site:*.gov.in intitle:"index of" "*.pl"
+[0;32m[206][0m site:*.gov.in intitle:"Index of" portal
+[0;32m[2][0m site:*.gov.in intitle:"index of" *.pptx
+[0;32m[3][0m site:*.gov.in intitle:"Index of /private/"
+[0;32m[1][0m site:*.gov.in intitle:"index of" "private.properties"
+[0;32m[637][0m site:*.gov.in intitle:"index of" "/products"
+[0;32m[1][0m site:*.gov.in intitle:"index of" "profiler"
+[0;32m[6][0m site:*.gov.in intitle:"index of" "pub"
+[0;32m[469][0m site:*.gov.in intitle:"Index of" public
+[0;32m[1][0m site:*.gov.in intitle:"index of" "/public/js"
+[0;32m[31][0m site:*.gov.in intitle:"index of" " py-text"
+[0;32m[1][0m site:*.gov.in intitle:"index of" "release.sh"
+[0;32m[179][0m site:*.gov.in intitle:"index of" "/resources"
+[0;32m[6][0m site:*.gov.in intitle:"index of" * resources
+[0;32m[1][0m site:*.gov.in intitle:index.of robots.txt
+[0;32m[4][0m site:*.gov.in intitle:"index of" scada
+[0;32m[96][0m site:*.gov.in intitle:"Index of" "Screenshot"
+[0;32m[20][0m site:*.gov.in intitle:"index of" "script.js"
+[0;32m[79][0m site:*.gov.in intitle:"index of" "secret.js"
+[0;32m[1][0m site:*.gov.in intitle:"index of" "security.php"
+[0;32m[1070][0m site:*.gov.in intitle:"index of" "server at"
+[0;32m[3][0m site:*.gov.in intitle:"index of" " Server-Side "
+[0;32m[51][0m site:*.gov.in intitle:"index of" *.shell
+[0;32m[1][0m site:*.gov.in intitle:"index of" "shell.php"
+[0;32m[1][0m site:*.gov.in intitle:"index of" *shell.php
+[0;32m[2][0m site:*.gov.in intitle:"index of smtp"
+[0;32m[1][0m site:*.gov.in intitle:"index of" "sourcecode"
+[0;32m[78][0m site:*.gov.in intitle:"index of" "/sql"
+[0;32m[46][0m site:*.gov.in intitle:"index of" *.sql
+[0;32m[78][0m site:*.gov.in intitle:index.of.?.sql
+[0;32m[1][0m site:*.gov.in intitle:"index of" sql inurl:./db/
+[0;32m[447][0m site:*.gov.in intitle:"index of" " src "
+[0;32m[1][0m site:*.gov.in intitle:"index of /" ssh
+[0;32m[42][0m site:*.gov.in intitle:"index of" "/students"
+[0;32m[7][0m site:*.gov.in intitle:"index of" "symfony/config"
+[0;32m[6][0m site:*.gov.in intitle:"index of" "untitled"
+[0;32m[2030][0m site:*.gov.in intitle:index of "uploads"
+[0;32m[41][0m site:*.gov.in intitle:"Index of" upload size parent directory
+[0;32m[1][0m site:*.gov.in intitle"index of" "username" "password" filetype: xlsx
+[0;32m[408][0m site:*.gov.in intitle:"index of" "/user" | "/users"
+[0;32m[33][0m site:*.gov.in intitle:index of "wc.db"
+[0;32m[4][0m site:*.gov.in intitle:"Index of" wp-admin
+[0;32m[1][0m site:*.gov.in intitle:"Index of" wp-config.php
+[0;32m[688][0m site:*.gov.in intitle:"index of" "wp-content"
+[0;32m[688][0m site:*.gov.in intitle:"Index of" wp-content
+[0;32m[663][0m site:*.gov.in intitle:"index of" "/wp-content/uploads/"
+[0;32m[235][0m site:*.gov.in intitle:"index of" " wp-includes "
+[0;32m[41][0m site:*.gov.in intitle:"index of" *.xls
+[0;32m[9][0m site:*.gov.in intitle:"Index of" *.xlsx
+[0;32m[225][0m site:*.gov.in intitle:"index of" "XML "
+[0;32m[1][0m site:*.gov.in intitle:"index of" "*.yaml"
+[0;32m[2][0m site:*.gov.in intitle:intranet inurl:intranet +intext:"human resources"
+[0;32m[52][0m site:*.gov.in intitle:intranet inurl:intranet +intext:"phone"
+[0;32m[2][0m site:*.gov.in intitle:"Intranet Login"
+[0;32m[37][0m site:*.gov.in intitle|inurl::"IoT login"
+[0;32m[56][0m site:*.gov.in intitle|inurl:"SCADA login"
+[0;32m[70][0m site:*.gov.in intitle:ip camera login page
+[0;32m[1][0m site:*.gov.in intitle:"Journal" inurl:"login.aspx"
+[0;32m[1800][0m site:*.gov.in intitle:#k4raeL - sh3LL
+[0;32m[3][0m site:*.gov.in intitle:"Lists Web Service"
+[0;32m[1][0m site:*.gov.in intitle:"Login" -com "/doc/page/login.asp"
+[0;32m[1][0m site:*.gov.in intitle:"login credit" "login"
+[0;32m[697][0m site:*.gov.in intitle:login enterprise
+[0;32m[7][0m site:*.gov.in intitle:"login form" "powered by" -tutorial
+[0;32m[1][0m site:*.gov.in intitle:"login" intext:"authorized users only"
+[0;32m[41][0m site:*.gov.in intitle:"Login" intext:"cam"
+[0;32m[161][0m site:*.gov.in intitle:"Login" intext:"camera"
+[0;32m[1][0m site:*.gov.in intitle:"Login" intext:"(Moka pot)" inurl:"login.php"
+[0;32m[8][0m site:*.gov.in intitle:Login intext:"RT is © Copyright"
+[0;32m[30][0m site:*.gov.in intitle:"login" | intitle:"hospital" "patient" "clinic" "admin" "medical" "login" -stackoverflow -github -youtube
+[0;32m[1][0m site:*.gov.in intitle:login laboratory | "nuclear" | physics "password" authentication
+[0;32m[551][0m site:*.gov.in intitle:login "recruiter" | "employer" | "candidate"
+[0;32m[1][0m site:*.gov.in intitle:Login * Webmailer
+[0;32m[45][0m site:*.gov.in intitle:"Lost Password Reset" | inurl:/secure/pwreset.php | inurl:/portal/index.php
+[0;32m[1][0m site:*.gov.in intitle:"Microsoft+Outlook+Web+Access+Log+On" | inurl:/owa/auth/logon.aspx
+[0;32m[6][0m site:*.gov.in intitle:Munin :: overview
+[0;32m[1][0m site:*.gov.in intitle:"netsparker scan report" ext:pdf
+[0;32m[3][0m site:*.gov.in intitle:"Oracle Access Management" "login" -inurl:oracle
+[0;32m[3][0m site:*.gov.in intitle:Oracle PeopleSoft Sign-in "Oracle" Sign-in "error"
+[0;32m[1][0m site:*.gov.in intitle:"Oracle WebLogic Server"
+[0;32m[1230][0m site:*.gov.in intitle:"Outlook Web Access" | "Outlook Web app" -office.com -youtube.com -microsoft.com
+[0;32m[1][0m site:*.gov.in intitle:"Outlook Web App" inurl:"/owa/auth" logon ext:aspx
+[0;32m[3][0m site:*.gov.in intitle:"partners login"
+[0;32m[137][0m site:*.gov.in intitle:"Payvand PACS"
+[0;32m[1][0m site:*.gov.in intitle:"Pentaho User Console - Login"
+[0;32m[1][0m site:*.gov.in intitle: phpBazar-AdminPanel
+[0;32m[2][0m site:*.gov.in intitle:phpMyAdmin
+[0;32m[3][0m site:*.gov.in intitle:"Please Login" "Use FTM Push"
+[0;32m[1][0m site:*.gov.in intitle:"Please login" "username" "password"
+[0;32m[963000][0m site:*.gov.in intitle:"Portal" & (inurl:"login.asp" | inurl:"login.aspx")
+[0;32m[4][0m site:*.gov.in intitle:"Portal" inurl:"login.jsp"
+[0;32m[23][0m site:*.gov.in intitle:"Portal" inurl:"login.php"
+[0;32m[1][0m site:*.gov.in intitle:"Powered by Deepija Telecom"
+[0;32m[1][0m site:*.gov.in intitle:"Powered by Qualys SSL Labs"
+[0;32m[2][0m site:*.gov.in intitle:"private login" username -github
+[0;32m[2][0m site:*.gov.in intitle:QueryService Web Service
+[0;32m[1][0m site:*.gov.in intitle:"Remote UI" intext:"Printer status"
+[0;32m[1][0m site:*.gov.in intitle:"remote ui:top page"
+[0;32m[90][0m site:*.gov.in intitle:"report" ("Fortify" | "Web Inspect") filetype:pdf
+[0;32m[6][0m site:*.gov.in intitle:"report" ("qualys" | "acunetix" | "nessus" | "netsparker" | "nmap") filetype:pdf
+[0;32m[152][0m site:*.gov.in intitle:"Residential Gateway Configuration:" intext:"Cable Modem Information."
+[0;32m[3][0m site:*.gov.in intitle:"RM Portal"
+[0;32m[7][0m site:*.gov.in intitle:rms webportal
+[0;32m[2][0m site:*.gov.in intitle:"Sign in · GitLab"
+[0;32m[4][0m site:*.gov.in intitle:"sign in" inurl:login.aspx
+[0;32m[1530][0m site:*.gov.in intitle:sign in inurl:/signin
+[0;32m[1][0m site:*.gov.in intitle:"statistics of" "advanced web statistics"
+[0;32m[106000][0m site:*.gov.in intitle:"Status & Control" + "Thermostat Status" +"HVAC Settings" +"Zone Temperature"
+[0;32m[1][0m site:*.gov.in intitle:"Struts Problem Report" intext:"development mode is enabled."
+[0;32m[2][0m site:*.gov.in intitle:"Student" inurl:"login.aspx"
+[0;32m[3][0m site:*.gov.in intitle:"Success!" intext:"Your new web server is ready to use."
+[0;32m[2][0m site:*.gov.in intitle:"Swagger UI - " + "Show/Hide"
+[0;32m[1][0m site:*.gov.in intitle:Top "Vantage Service Gateway" -inurl:zyxel
+[0;32m[721][0m site:*.gov.in intitle:upload inurl:upload intext:upload -forum -shop -support -w3c
+[0;32m[1][0m site:*.gov.in intitle:"Usage Statistics for" "Generated by Webalizer"
+[0;32m[3120000][0m site:*.gov.in intitle:vendor | supply & login | portal intext:login | email & password
+[0;32m[2][0m site:*.gov.in intitle:vmware "This is a restricted Access Server"
+[0;32m[1][0m site:*.gov.in intitle:"Vulnerability Report" "Critical" ext:pdf
+[0;32m[1][0m site:*.gov.in intitle:"WAMPSERVER Homepage"
+[0;32m[1][0m site:*.gov.in intitle:"WAMPSERVER Homepage" & intext:"Server Configuration"
+[0;32m[1][0m site:*.gov.in intitle:"WAMPSERVER homepage" "Server Configuration" "Apache Version"
+[0;32m[2][0m site:*.gov.in intitle:"WEBCAM 7 " -inurl:/admin.html
+[0;32m[3][0m site:*.gov.in intitle:"webcam" "login"
+[0;32m[2][0m site:*.gov.in intitle:"webmail Login"
+[0;32m[1][0m site:*.gov.in intitle:"Webmail Login" intext:"cPanel, L.L.C. " +"Change locale"
+[0;32m[1][0m site:*.gov.in intitle:"Web Server Statistics for ****"
+[0;32m[5][0m site:*.gov.in intitle:"WebService Web Service" ext:asmx
+[0;32m[3][0m site:*.gov.in intitle:"Web user login"
+[0;32m[42500][0m site:*.gov.in intitle:"Welcome" intext:"Login"
+[0;32m[1][0m site:*.gov.in intitle:'Welcome to JBoss AS'
+[0;32m[3][0m site:*.gov.in intitle:.:: Welcome to the Web-Based Configurator::.
+[0;32m[1][0m site:*.gov.in intitle:"Whoops! There was an error."
+[0;32m[1760][0m site:*.gov.in intitle:"WordPress
+[0;32m[1][0m site:*.gov.in intitle:"Xenmobile Console Logon"
+[0;32m[522][0m site:*.gov.in intitle:your access id is" login -youtube
+[0;32m[6][0m site:*.gov.in intitle:"Zimbra Web Client Sign In"
+[0;32m[7][0m site:*.gov.in intitle:"Zimbra Web Client Sign In" "Synacor"
+[0;32m[2][0m site:*.gov.in inur:"arsys/forms" | "arsys/shared" | "/arsys/home"
+[0;32m[1][0m site:*.gov.in inurl: 1051/viewer/live/index.html?lang=en
+[0;32m[2][0m site:*.gov.in inurl:":631/printers" -php -demo
+[0;32m[1][0m site:*.gov.in inurl:"8000" inurl:"login"
+[0;32m[1][0m site:*.gov.in inurl:"8080/dashboard/" intitle:"Dashboard"
+[0;32m[3][0m site:*.gov.in inurl:":8080/login"
+[0;32m[1][0m site:*.gov.in inurl:/8080/login.html
+[0;32m[306][0m site:*.gov.in inurl *:8080/login.php
+[0;32m[4][0m site:*.gov.in inurl:/8080 "windows" "live view"
+[0;32m[836][0m site:*.gov.in inurl:8081/ "Pan, Tilt & Zoom"
+[0;32m[35][0m site:*.gov.in inurl:8443 AND -intitle:8443 AND -intext:8443 prohibited|restricted|unauthorized
+[0;32m[9][0m site:*.gov.in inurl *:8443/login.jsp
+[0;32m[143][0m site:*.gov.in inurl:8888 ext:php inurl:login
+[0;32m[96200][0m site:*.gov.in inurl:/about
+[0;32m[1][0m site:*.gov.in inurl:/account/signin intitle:"signin"
+[0;32m[1][0m site:*.gov.in inurl:/add_vhost.php?lang=
+[0;32m[1][0m site:*.gov.in inurl:"/adfs/ls/"
+[0;32m[1][0m site:*.gov.in inurl:/adfs/ls/idpinitiatedsignon
+[0;32m[26][0m site:*.gov.in inurl:/admin.aspx
+[0;32m[55][0m site:*.gov.in inurl:admin.aspx
+[0;32m[5][0m site:*.gov.in inurl:".Admin;-aspx }" "~Login"
+[0;32m[1][0m site:*.gov.in inurl:admin/changepassword*
+[0;32m[20][0m site:*.gov.in inurl:"admin/default.aspx"
+[0;32m[7][0m site:*.gov.in inurl:admin filetype:xls
+[0;32m[83][0m site:*.gov.in inurl:admin filetype:xlsx
+[0;32m[361][0m site:*.gov.in inurl: admin/index.php
+[0;32m[38][0m site:*.gov.in inurl:/admin/index.php
+[0;32m[1][0m site:*.gov.in inurl:"/admin/index.php?msg=" inurl:"%20"
+[0;32m[167][0m site:*.gov.in inurl "/admin/index.php" username=admin&password=password
+[0;32m[33700][0m site:*.gov.in inurl:/admin/ intext:"login"
+[0;32m[139][0m site:*.gov.in inurl:admin. intitle:"admin login"
+[0;32m[38][0m site:*.gov.in inurl: "/admin" intitle:"Admin Login"
+[0;32m[115][0m site:*.gov.in inurl:/admin/ intitle:index.of
+[0;32m[4][0m site:*.gov.in inurl:admin intitle:index of ext:sql | xls | xml | json | csv
+[0;32m[27500][0m site:*.gov.in inurl:admin intitle:login
+[0;32m[14800][0m site:*.gov.in inurl:admin inurl:userlist
+[0;32m[128][0m site:*.gov.in inurl: administrator/components
+[0;32m[1][0m site:*.gov.in inurl:/administrator/login.php
+[0;32m[72][0m site:*.gov.in inurl:("administrator/login.php" OR "admin/login.php")
+[0;32m[1180][0m site:*.gov.in inurl: admin login
+[0;32m[26600][0m site:*.gov.in inurl:/admin/login
+[0;32m[45400][0m site:*.gov.in inurl:admin login
+[0;32m[322][0m site:*.gov.in inurl: admin/login.aspx
+[0;32m[68][0m site:*.gov.in inurl:admin/login.aspx
+[0;32m[8][0m site:*.gov.in inurl:adminlogin.do
+[0;32m[2][0m site:*.gov.in inurl:adminlogin.htm
+[0;32m[4][0m site:*.gov.in inurl:adminlogin.html
+[0;32m[33][0m site:*.gov.in inurl /admin/login intitle panel admin
+[0;32m[2680000][0m site:*.gov.in inurl:"*admin | login" | inurl:.php | .asp
+[0;32m[5][0m site:*.gov.in inurl:admin/login.jsp
+[0;32m[20][0m site:*.gov.in inurl:adminlogin.jsp
+[0;32m[42][0m site:*.gov.in inurl: "admin-login.php"
+[0;32m[9][0m site:*.gov.in inurl:*admin_login.php
+[0;32m[55][0m site:*.gov.in inurl:/admin.login.php
+[0;32m[36][0m site:*.gov.in inurl:/admin/login.php
+[0;32m[5][0m site:*.gov.in inurl:adminlogin.php
+[0;32m[1630][0m site:*.gov.in inurl:/admin/login.php intitle:("Iniciar sesion" OR "hacked")
+[0;32m[35][0m site:*.gov.in inurl:/admin/login.php intitle:("Iniciar sesion" OR "Login")
+[0;32m[87][0m site:*.gov.in inurl /admin/login.php intitle panel admin
+[0;32m[21][0m site:*.gov.in inurl: /admin/login.php intitle: panel admin
+[0;32m[1][0m site:*.gov.in inurl:"/Admin/Login?ReturnUrl=" -github.com -gitlab.com
+[0;32m[44500][0m site:*.gov.in inurl:"*admin|login" site: gov
+[0;32m[4][0m site:*.gov.in inurl:adminpanel/index.php
+[0;32m[5][0m site:*.gov.in inurl:admin.php inurl:admin ext:php
+[0;32m[7][0m site:*.gov.in inurl:"admin/public/login"
+[0;32m[1][0m site:*.gov.in inurl:AIMS/PS
+[0;32m[1][0m site:*.gov.in inurl:"AllItems.aspx?FolderCTID=" "firewall" | "proxy" | "configuration" | "account"
+[0;32m[1][0m site:*.gov.in inurl:"/api-docs"
+[0;32m[5480][0m site:*.gov.in inurl:"/arcgis/rest/services"
+[0;32m[13200][0m site:*.gov.in inurl:"articles.php?topic="
+[0;32m[42][0m site:*.gov.in inurl:/aspnet_client/system_web/
+[0;32m[189][0m site:*.gov.in inurl:auth/Login
+[0;32m[2][0m site:*.gov.in inurl:auth/login?returnUrl
+[0;32m[2][0m site:*.gov.in inurl:"backend/web/site/login"
+[0;32m[1][0m site:*.gov.in inurl:"BasicAuthenticator:LOCAL"
+[0;32m[6][0m site:*.gov.in inurl:cas/login?service=http
+[0;32m[185][0m site:*.gov.in inurl:/_catalogs
+[0;32m[1][0m site:*.gov.in inurl:changepassword.asp
+[0;32m[1400][0m site:*.gov.in inurl:client_id=
+[0;32m[3][0m site:*.gov.in inurl:client_login=
+[0;32m[365][0m site:*.gov.in inurl:"cmd=auth?" -github -stackoverflow -gitlab
+[0;32m[4][0m site:*.gov.in inurl:"com_book"
+[0;32m[5040][0m site:*.gov.in inurl:com_content
+[0;32m[6][0m site:*.gov.in inurl:.com index of apks
+[0;32m[495][0m site:*.gov.in inurl:.com index of movies
+[0;32m[4][0m site:*.gov.in inurl:"com_rokdownloads"
+[0;32m[5][0m site:*.gov.in inurl: conf/fastcgi.conf
+[0;32m[1][0m site:*.gov.in inurl: /config.txt ext:txt intext:
+[0;32m[380][0m site:*.gov.in inurl:course/category.php | inurl:course/info.php | inurl:iplookup/ipatlas/plot.php
+[0;32m[3][0m site:*.gov.in inurl:/+CSCOE+/logon.html
+[0;32m[1][0m site:*.gov.in inurl:/+CSCOE+/logon.html?
+[0;32m[57][0m site:*.gov.in inurl:"customer.aspx"
+[0;32m[4][0m site:*.gov.in inurl:/customerlogin
+[0;32m[1][0m site:*.gov.in inurl:/Dashboard.xhtml intitle:"Dashboard"
+[0;32m[4][0m site:*.gov.in inurl:"dispatch.php?atknodetype" | inurl:class.at
+[0;32m[5][0m site:*.gov.in inurl: document/d intext: ssn
+[0;32m[2][0m site:*.gov.in inurl:domcfg.nsf
+[0;32m[8][0m site:*.gov.in inurl:/download_file/ intext:"index of /"
+[0;32m[3][0m site:*.gov.in inurl:.DS_Store intitle:index.of
+[0;32m[3][0m site:*.gov.in inurl /editor/filemanager/connectors/uploadtest.html
+[0;32m[1][0m site:*.gov.in inurl:ejbexplorer
+[0;32m[57][0m site:*.gov.in inurl:/ emis login
+[0;32m[5][0m site:*.gov.in inurl:emplogin.aspx
+[0;32m[3][0m site:*.gov.in inurl:employee filetype:xls
+[0;32m[2][0m site:*.gov.in inurl:employee-login.html
+[0;32m[6][0m site:*.gov.in inurl: */.env
+[0;32m[188][0m site:*.gov.in inurl:.*eservices/login
+[0;32m[1][0m site:*.gov.in inurl:"exchange/logon.asp" OR intitle:"Microsoft Outlook Web Access - Logon"
+[0;32m[1][0m site:*.gov.in inurl:FileListAbsolute ext:txt
+[0;32m[2][0m site:*.gov.in inurl: /filemanager/dialog.php
+[0;32m[1][0m site:*.gov.in inurl:/files/_log/ filetype:log
+[0;32m[2][0m site:*.gov.in inurl:/\filesrc=**** ~"Current" ~":/" ~"upload"

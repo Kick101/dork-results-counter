@@ -1,0 +1,44 @@
+allintext:username filetype:log
+"authentication failure; logname=" ext:log
+"CREATE ROLE" + "ENCRYPTED PASSWORD" ext:sql | ext:txt | ext:ini -git -gitlab
+"DefaultPassword" ext:reg "[HKEY_LOCAL_MACHINESOFTWAREMicrosoftWindows NTCurrentVersionWinlogon]"
+"'dsn: mysql:host=localhost;dbname=" ext:yml | ext:txt "password:"
+File contains Sensitive Information
+filetype:conf inurl:proftpd.conf -sample
+filetype:csv intext:"Secret access key"
+filetype:log username putty
+filetype:reg reg HKEY_CURRENT_USER username
+filetype:reg reg +intext:"internet account manager"
+"index of" / lck
+index.of perform.ini
+"index of" "users.frm"
+intext:"-----BEGIN CERTIFICATE-----" ext:txt
+intext:"root:x:0:0:root:/root:/bin/bash" inurl:*=/etc/passwd
+intext:"SteamUserPassphrase=" intext:"SteamAppUser=" -"username" -"user"
++intext:"webalizer" +intext:"Total Usernames" +intext:"Usage Statistics for"
+intitle:index.of .bash_history
+intitle:"index of" "contacts.txt"
+intitle:"index of" "credentials.xml" | "credentials.inc" | "credentials.txt"
+intitle:"index of" "db.properties" | "db.properties.BAK"
+intitle:"index of" "filezilla.xml"
+intitle:"index of" "/ftpusers"
+intitle:"index of" "/parameters.yml*"
+intitle:"index of" "password.yml
+intitle:"index of" service.grp
+intitle:index.of .sh_history
+intitle:"index of" "sitemanager.xml" | "recentservers.xml"
+intitle:"index of" "tomcat-users.xml"
+intitle:index.of "users.db"
+intitle:"index of" "users.sql"
+inurl:admin filetype:asp inurl:userlist
+inurl:admin inurl:userlist
+inurl:/_layouts/mobile/view.aspx?List=
+inurl:php inurl:hlstats intext:"Server Username"
+inurl:/profile.php?lookup=1
+inurl:root.asp?acs=anon
+inurl:"/root/etc/passwd" intext:"home/*:"
+inurl:user intitle:index of ext:sql | xls | xml | json | csv
+jdbc:mysql://localhost:3306/ + username + password ext:yml | ext:java -git -gitlab
+jdbc:sqlserver://localhost:1433 + username + password ext:yml | ext:java
+site:extremetracking.com inurl:"login="
+"username.xlsx" ext:xlsx

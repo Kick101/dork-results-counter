@@ -1,0 +1,445 @@
+allintext:'HttpFileServer 2.3k'
+allintext:"WebServerX Server at"
+allintitle:"FirstClass Login"
+allintitle: "index of/admin"
+allintitle:"Index of /Admin/Common" | allintext:"Parent Directory"
+allintitle:"Index of /ThinkPHP" | inurl: "/ThinkPHP/"
+allintitle: sensitive ext:doc OR ext:xls OR ext:xlsx
+allinurl:/hide_my_wp=
+allinurl:"/*/_vti_pvt/" | allinurl:"/*/_vti_cnf/"
+allinurl:"wp-content/plugins/wordpress-popup/views/admin/"
+"-----BEGIN EC PRIVATE KEY-----" | " -----BEGIN EC PARAMETERS-----" ext:pem | ext:key | ext:txt
+"-----BEGIN PGP PRIVATE KEY BLOCK-----" ext:pem | ext:key | ext:txt -git
+"Config" intitle:"Index of" intext:vpn
+"description" & "size" intitle:"index of" "owncloud"
+"Desktop" parent intitle:index.of
+"Directory Listing for" "Hosted by Xerver"
+:DIR | intitle:index of inurl://whatsapp/
+"-- Dump completed" ext:sql | ext:txt | ext:log
+"-- Dumped from database version" + "-- Dumped by pg_dump version" ext:txt | ext:sql | ext:env | ext:log
+"-- Dumping data for table `admin`" | "-- INSERT INTO `admin`" "VALUES" ext:sql | ext:txt | ext:log | ext:env
+"-- Dumping data for table * " ext:sql | ext:xls intext:db | intext:database | intext:password | username
+"-- Dumping data for table `users` | `people` | `member`" ext:sql | ext:txt | ext:log | ext:env
+/etc/certs + "index of /" */*
+/etc/config + "index of /" /
+ext:reg [HKEY_CURRENT_USERSoftwareSimonTathamPuTTYSshHostKeys]
+filetype:cfg ks intext:rootpw -sample -test -howto
+filetype:git -github.com inurl:"/.git"
+filetype:ini Desktop.iniintext:mydocs.dll
+filetype:svn -gitlab -github inurl:"/.svn"
+filetype:torrent torrent
+GitLab ssh.log ext:log
+Google Dork : Index of: /services/aadhar card/
+Google Dork: intitle: "index of" "payment"
+Hostinger © 2016. All rights reserved inurl:default.php
+index:"html/js/editor/fckeditor/editor/filemanager/connectors"
+"Index of /backup"
+indexof:backup/mysql
+indexof:backup/web.config
+index of /cache
+"index of cgi-bin"
+index of /ckeditor
+"index of" "/config/sql"
+"index of" "database_log"
+"Index of" "database.sql"
+"index of" "database.sql.zip"
+index.of.dcim
+"index of" "email.ini"
+index of /etc/certs/
+"index of" "fileadmin"
+indexof:.htaccess
+index of /htdocs
+"Index of" inurl:"/$Recycle.Bin/"
+"Index of" inurl:config inurl:production
+"index of" inurl:database ext:sql | xls | xml | json | csv
+"Index of" inurl:htdocs inurl:xampp
+"Index of" inurl:phpmyadmin
+"index of" inurl:recycler
+"index of" inurl:root intitle:symlink
+"index of" inurl:sym
+"Index of" inurl:webalizer
+index of kcfinder/
+index of logs.tar
+"Index of" "/monitoring"
+"index of" "mysql.sh"
+"Index Of /network" "last modified"
+index of /node_modules/ -github -stackoverflow
+Index of / *.ovpn
+index.of.password
+"index of" "performance_schema"
+"index of" / picasa.ini
+index.of.private
+index.of.protected
+"Index of" rar r01 nfo Modified 2004
+"Index of" "sass-cache"
+index.of.secret
+index.of.secure
+Index of: /services/pancard/
+index of /storage/logs/
+"index of" "svg"
+Index of /.svn
+"index of" "users.ibd"
+index.of.winnt
+Index: /wp-includes/Text/Diff
+intext:"CAD Media Log"
+intext:"d.aspx?id" || inurl:"d.aspx?id"
+intext:"index of /" ".composer-auth.json"
+intext:"Index of /database"
+intext:"Index of /.git"
+(intext:"index of /.git") ("parent directory")
+intext:"index of" intext:..bak intext:config
+intext:index of sym
+intext:"index of /userfiles/file/"
+intext:"INTERNAL USE ONLY" ext:doc OR ext:pdf OR ext:xls OR ext:xlsx
+intext:"KRAB-DECRYPT.txt" intitle:"index of"
+intext:my.cnf intitle:index of
+intext:"paytm" intitle:"index of"
+intext:"Powered By: TotalIndex" intitle:"TotalIndex"
+intext:"Powered by ViewVC" | intitle:"ViewVC Repository Listing"
+intext:pure-ftpd.conf intitle:index of
+intext:/wp-content/plugins/woocommerce/templates/emails/plain/
+intext:"/wp-content/uploads/wpsc/"
+intext:xampp-dav-unsecure:$apr1$6O9scpDQ$JGw2Tjz0jkrqfKh5hhiqD1
+intitle:"album permissions" "Users who can modify photos" "EVERYBODY"
+intitle:backup+index of
+intitle:"Backup-Management (phpMyBackup v.0.4 beta * )" -johnny.ihackstuff
+intitle:CV+index of
+intitle:"Dashboard [Jenkins]"
+intitle:"Directory Listing For" "Filename" intext:Tomcat/5.0.28
+intitle:"Directory Listing For" intext:Tomcat -int
+intitle:"docker" intitle:"index of" config
+intitle:"Everything" inurl:C:Windows
+intitle:"Folder Listing" "Folder Listing" Name Size Date/Time File Folder
+intitle:"HFS /" +"HttpFileServer"
+intitle:"index of" $Recycle.bin
+intitle:"index of" "/000~ROOT~000/"
+intitle:index.of abyss.conf
+intitle:'index of' "access_log"
+intitle:index.of.accounts
+intitle:"index of" admin
+intitle:"index of" "/admin/backup"
+intitle:"index of" "/admin_backup"
+intitle:"index of" "admin/config"
+intitle:index.of "admin.db"
+intitle:index.of "admin" filetype:sql
+intitle:"index of" "admin/json"
+intitle:"index of" "admin/sql/"
+intitle:index.of /AlbumArt_
+intitle:("Index of" AND "wp-content/plugins/boldgrid-backup/=")
+intitle:"index of" "apache-log-parser" "Port 80"
+intitle:"index of" "api/admin"
+intitle:"index of" api_key OR "api key" OR apiKey -pool
+intitle:"index of" "Application Data/Microsoft/Credentials"
+intitle:"Index.Of.Applications (Parallels)" -stackoverflow -quora
+intitle:"index of" "app.log"
+intitle:"index of" "/app.log" | "/app.logs"
+intitle:"Index.of" "attachments"
+intitle:"index of /" authorized_keys
+intitle:"index of" "/aws.s3/"
+intitle: Index of /awstats/data
+intitle: "index of backup.php"
+intitle: "index of backup.xml"
+intitle:index.of "backwpup"
+intitle:index.of.?.bak
+intitle:index.of .bashrc
+intitle:"index of /bins" arm
+intitle: "index of" "./" "./bitcoin"
+intitle:"index of" "/bitcoin/"
+intitle:"index of" "cctv"
+intitle:"index of" "*.cert.pem" | "*.key.pem"
+intitle:"Index of" cfide
+intitle:"Index of /CFIDE/" administrator
+intitle:"index of" "/CFIDE/" intext:"administrator"
+intitle:index.of "chroot.conf"
+intitle:index.of cisco asa -site:cisco.com
+intitle:"index of" "/Cloudflare-CPanel-7.0.1"
+intitle:"index of" "common.crt" OR "ca.crt"
+intitle:"index of" "/concrete/Authentication"
+intitle:index.of.config
+intitle:"index of" /config.ini
+intitle:"index of" "config.py"
+intitle:"index of" "/configs"
+intitle:"index of" "contacts.vcf"
+intitle:"index of" /content/admin/
+intitle:"index of" /content/uploads/ -inurl:/wp-content/uploads/
+intitle:"index of" ".cpanel/caches/config/"
+intitle:"index of" cvsroot
+intitle:"Index of c:\\Windows"
+intitle:"Index of c:xampp"
+intitle:index.of.?.database
+intitle:index.of "database.db"
+intitle:"index of" "db"
+intitle:index.of./.db
+intitle:"index of" "/db_backups/"
+intitle:"index of" db.frm
+intitle:index.of "db.zip"
+intitle:"Index of" "DCIM"
+intitle:"index of" ".dockerignore"
+intitle:"index of" domain.key -public
+intitle:index.of.dropbox
+intitle:"index of" drupal
+intitle:"index of" "dump.sql"
+intitle:"index of" ".env"
+intitle:'index of' "error_log"
+intitle:"index of" "/etc/mysql/"
+intitle:"index of" "firewall.log" | "firewall.logs"
+intitle:"Index of ftp"
+intitle:"index of" "ftp.log"
+intitle:index of .git/hooks/
+intitle:"index of" "git-jira-log"
+intitle:"index of" "global.asa"
+intitle:"index of" "graphql/subscription"
+intitle:index.of home/000~root~000/
+intitle:"index of" "/home/ROOT_PATH/"
+intitle:index.of./.htaccess
+intitle:"Index of /" +.htaccess.old
+intitle:index.of "htaccess.txt"
+intitle:"index of" "htdocs.zip"
+intitle:index.of id_rsa -id_rsa.pub
+intitle: "index of" "includes"
+intitle:index.of +"Indexed by Apache::Gallery"
+intitle:"index of /" intext:/backup
+intitle:index.of intext:.bash_history
+intitle:"index of" intext:"client.key.pem"
+intitle:"index of" intext:"content.ie5"
+intitle:"index of /" intext:/descargas/
+intitle:"index of /" intext:/Download/
+intitle:"index of" intext:".ds_store"
+intitle:"Index Of" intext:"iCloud Photos" OR intext:"My Photo Stream" OR intext:"Camera Roll"
+intitle:"index of" intext:"Includes
+intitle:"index of" intext:"Includes wordpress"
+intitle: "Index of" intext:log
+intitle:"Index Of" intext:".Trash"
+intitle:index.of intext:viewvc
+intitle:"index of" inurl:admin/download
+intitle:index.of (inurl:admin | intitle:admin)
+intitle: "Index of" inurl:admin/uploads
+intitle:"index of" inurl:documents backup
+intitle: "Index of" inurl:fileadmin
+intitle:index.of (inurl:fileadmin | intitle:fileadmin)
+intitle:"index.of" | inurl:/filemanager/connectors/ intext:uploadtest.html
+intitle:"index of" inurl:ftp intext:admin
+intitle:"index of" inurl:ftp (pub | incoming)
+intitle:index.of inurl:grades site:edu
+intitle:"index of" -inurl:htm -inurl:html mp3
+intitle:"Index of *" inurl:"my shared folder" size modified
+intitle:"index of" inurl:"no-ip.com"
+intitle:"Index of /" inurl:passport
+intitle:index.of inurl:/websendmail/
+intitle:"index of" inurl:wp-json embedurl?
+intitle:"Index of" inurl:wp-json/oembed
+intitle:" index of "/Invoices*"
+intitle:index.of ios -site:cisco.com
+intitle:"index of" "iredadmin/*"
+intitle:"Index of /" "joomla_update.php"
+intitle:"index of" "jwt-auth"
+intitle:index.of.?.login
+intitle:"Index of" login.php
+intitle:"index of" /lsass.exe
+intitle:Index of /__MACOSX ...
+intitle:index.of.mail
+intitle:index.of /maildir/new/
+intitle:"index of" "*Maildir/new"
+intitle:"index of" "maven-metadata.xml" "Port 80"
+intitle:"index of" "metadata"
+intitle:"index of" myshare
+intitle:index.of.?.mysql
+intitle:"index of" mysqli.ini
+intitle: "index of" "MySQL-Router"
+intitle:"index of" "oauth-private.key"
+intitle:"index of" "onetoc2" "one"
+intitle:"index of" .oracle_jre_usage/
+intitle:"index of" "owncloud/config/*"
+intitle:"index of" "parent directory" "desktop.ini" site:dyndns.org
+intitle:index.of parent inurl:repos
+intitle:"index of" ".pem"
+intitle:"index.of.personal"
+intitle:"index of" /php4/
+intitle:"Index of" phpinfo.php
+intitle:"Index of" phpmyadmin
+intitle:"index of /phpmyadmin" modified
+intitle:"index of" "*php.swp"
+intitle:"Index of" portal
+intitle:"Index of /private/"
+intitle:"index of" "private/log"
+intitle:"index of" "proxy.pac" OR "proxy.pac.bak"
+intitle:"Index of" public
+intitle:index.of.pubs
+intitle:Index of "pyvenv.cfg"
+intitle:"index of" "/root/etc/security/"
+intitle:"index of" scada
+intitle:"index of SCADA"
+intitle:"Index of" secret
+intitle:"index of" "server.crt" | "server.csr"
+intitle:"index of" "slapd.conf"
+intitle:"index of" "sms.log"
+intitle:index.of./.sql
+intitle:index.of.?.sql
+intitle:index of /.sql.gz intext:/backup/
+intitle:"index of" sql inurl:./db/
+intitle:"index of /" "sqlite.db"
+intitle:"index of /" ssh
+intitle:"index of" ssh2.ini
+intitle:"index of" "ssh_host_ecdsa_key"
+"intitle:Index.Of /" stats merchant cgi-* etc
+intitle:"index of" "survey.cgi"
+intitle:"index of" "symfony/config"
+intitle:"index of" "system/config"
+intitle:index.of "system.db"
+intitle:"index of" "/system.log" | "/system.logs"
+intitle:"index of" "test/storage/framework/sessions/"
+intitle:"index of" "tinyfilemanager.php"
+intitle:index of "uploads"
+intitle:"index of" "uploads.old"
+intitle:"index of" "/user" | "/users"
+intitle:"index of" /var/logs filetype:'"log | txt | csv"
+intitle:"index of" "/.vscode"
+intitle:index.of WEB-INF
+intitle:"index of" "WebServers.xml"
+intitle:"Index of" "WhatsApp Databases"
+intitle:"Index of" "WhatsApp Images"
+intitle:"index of" "WindowsCookies"
+intitle:"index of" "/Windows/Recent" | "/Windows/History/"
+intitle:"Index of" wp-admin
+intitle:"Index of" wp-config
+intitle:"Index of" wp-config.php
+intitle:"Index of" wp-content
+intitle:"Index of" wp-upload
+intitle:"index of" "ws_ftp.log"
+intitle:"Index of" "wwwroot"
+intitle:"index of" .zshrc~ OR .zshrc OR .zshenv OR .zshenv~ -pool -public
+intitle:intranet inurl:intranet +intext:"human resources"
+intitle:"pictures thumbnails" site:pictures.sprintpcs.com
+intitle:" - Revision" + "subversion version"
+intitle:upload inurl:upload intext:upload -forum -shop -support -w3c
+intitle:"webadmin - /*" filetype:php directory filename permission
+inurl:8080 + intext:"httpfileserver 2.3"
+inurl:8080 intitle:"Dashboard [Jenkins]"
+inurl:admin/data* intext:index of
+inurl:/admin/ intitle:index.of
+inurl:admin inurl:uploads
+inurl:"ai1wm-backups"
+inurl:"apps/backend/config/"
+inurl:/aspnet_client/system_web/
+inurl:backup intitle:index.of inurl:admin
+inurl:bc.googleusercontent.com intitle:index of
+inurl:/certs/server.key
+inurl:/cgi-bin/.cgi
+inurl:"/cgi-bin/CVS/"
+inurl:ckfinder intext:"ckfinder.html" intitle:"Index of /ckfinder"
+inurl:"/cms/app/webroot"
+inurl:concrete/config/
+inurl:/database* ext:sql intext:index of -site:github.com
+inurl:"default.php" intext:"website" "has been successfully installed on the server!"
+inurl:"/drive/folders/" site:drive.google.com
+inurl:.DS_Store intitle:index.of
+inurl:".esy.es/default.php"
+inurl:explorer.cfm inurl:(dirpath|This_Directory)
+inurl:/FCKeditor/editor/filemanager/upload/
+inurl:/fckeditor/editor/plugins/ajaxfilemanager/ajaxfilemanager.php
+inurl:filebrowser.wcgp?subDir Communigate
+inurl: /filemanager/dialog.php
+inurl:filemanager/upload/asp/ "index of"
+inurl:/files/contao
+inurl:"folderview?id=" site:drive.google.com
+inurl: /.git
+-inurl:htm -inurl:html intitle:"index of" 100CANON
+-inurl:htm -inurl:html intitle:"index of" NIKON
+inurl:"/includes/api/" intext:"index of /"
+inurl:"/includes/OAuth2" intext:"index of /"
+inurl:install.pl intext:"Reading path paramaters" -edu
+inurl:"/irj/go/km/docs/"
+inurl:"/irj/go/km/" intext:navigation
+inurl:j2ee/examples/jsp
+inurl:/jsps/testoperation.jsp "Test Operation"
+Inurl : /list/hdd1
+inurl:.listing intitle:index.of
+inurl:'listprojects.spr'
+inurl:member filetype:xls
+inurl:"nfs://www." "index of /"
+inurl:node_modules/mqtt/test/helpers/
+inurl:ojspdemos
+inurl:/openwebmail/cgi-bin/openwebmail/etc/
+inurl:"paypal" intitle:"index of" backup | db | access -github
+inurl:pictures intitle:index.of
+inurl:pipermail intitle:index.of parent
+inurl:/pls/sample/admin_/help/
+inurl:print.htm intext:"Domain Name:" + "Open printable report"
+inurl:private_files
+inurl:/proc/tty/ index of
+inurl:revslider inurl:'/revslider+port'
+inurl:"RootFolder=" Allitems "confidential" | "classified" | "passwords" | username
+inurl:safm.asp ext:asp
+inurl:/scgi-bin*
+inurl:/server/webapps
+inurl:/sites/default/files/webform/
+inurl:/sites/default/private
+inurl:.ssh intitle:index.of authorized_keys
+inurl:/sym/root/ intitle:index.of
+inurl:tcpconfig.html
+inurl:/tmp
+inurl:trash intitle:index.of
+inurl:"/.Trash" intitle:"index of" ~
+inurl:typo3conf/l10n/
+inurl:/typo3/typo3conf
+inurl: /upload.php intitle:index of
+inurl:/uploads/wc-logs/
+inurl:users intitle:index.of
+inurl:_vti_pvt/service.pwd
+inurl:/_vti_txt*
+inurl:"/webdynpro/resources/sap.com/"
+inurl:/wp-admin/includes/plugin-install.php
+inurl:wp-admin/ intext:css/
+inurl:wp-content intext:backup-db
+inurl:/wp-content/plugins/seo-pressor/classes/
+inurl:"/wp-content/uploads/db-backup"
+inurl:wp-content/uploads/ intitle:logs
+inurl:/wp-content/uploads/ninja-forms/ intitle:"index of"
+inurl:"wp-content/uploads/private"
+inurl:/wp-content/uploads/wp-backup-plus/
+inurl:/wp-content/uploads/wp-file-manager-pro
+inurl:/wp-content/uploads/wp-file-manager-pro/fm_backup
+inurl:/wp-content/wpbackitup_backups
+inurl:/wp-includes/certificates/
+inurl:"/wp-json/" -wordpress
+inurl:/wp/wp-admin/
+inurl:/xampp
+"jos_users" intitle:"Index of"
+"key" OR key.jar intitle:"index of" webstart
+"Last modified" intitle:"index of" "dropbox"
+log inurl:linklint filetype:txt -"checking"
+"lv_poweredBy"
+mail spool intitle:index.of
+"My Documents" "parent" intitle:index.of
+"m.zippyshare.com/"
+-pool intitle:"index of" wget-log -pub
+"-- PostgreSQL database dump complete" ext:sql | ext:txt | ext:log | ext:env
+"Powered by Apache Subversion version"
+"Powered by AutoIndex PHP Script" ext:php
+powered by h5ai
+"Powered by Invision Power File Manager" (inurl:login.php) | (intitle:"Browsing directory /" )
+private parent intitle:index.of
+-pub -pool intitle:"index of" squirrelmail/
+-pub -pool intitle:"index of" vagrantfile -"How to"
+"sasl_passwd" | smtpd.conf intitle:"index of"
+"Share Link" inurl:/share.cgi?ssid=
+site:com intitle:index of ..................etcpasswd
+site:ftp.* index of /ftp/backup
+site:* index.of: /android/manifest.xml
+site:* index of: /config
+site:* index of: *.exe
+site:*/logs/default.htm
+site:onedrive.live.com shared by
+site:*/wordpress/wordpress.bak/
+site:*/wp-contents/ inurl:/wp-contents/
+site:*/wp-includes/ inurl:/wp-includes/
+"sql" "parent" intitle:index.of -injection
+ssh_host_dsa_key.pub + ssh_host_key + ssh_config = "index of / "
+"To Parent Directory" AND "dir
+type:mil inurl:ftp ext:pdf | ps
+"/var/cache/registry/"
+"Warning: Installation directory exists at" "Powered by Zen Cart" -demo
+"Web File Browser" "Use regular expression"
+"Welcome to phpMyAdmin" " Create new database"
+"Welcome to the directory listing of" "NetworkActiv-Web-Server"
+"ws_ftp.log" ext:log

@@ -1,0 +1,120 @@
+"adding new user" inurl:addnewuser -"there are no domains"
+allintext:"fs-admin.php"
+crime24 stealer ext:txt
+"El Moujahidin Bypass Shell" ext:php
+ext:asp intext:Smart.Shell 1.0 BY P0Uy@_$3r\\/3R -
+ext:aspx intitle:aspxspy
+ext:jsp  intext:"jspspy" intitle:"Jspspy web~shell V1.0"
+ext:php intext:"-rwxr-xr-x" site:.in
+ext:php intitle:"b374k"
+( ext:php ) ( inurl:/wp-content/uploads/AAPL/loaders/ )
+"Fenix Final Version v2.0" filetype:php
+"File Manager - Current disk free"
+"File Manager Version 1.0" "Coded By"
+filetype:php HAXPLORER "Server Files Browser"
+filetype:php intext:"!C99Shell v. 1.0 beta"
+filetype:php intext:Your Email: intext:Your Name: intext:Reply-To: intext:mailer
+Find Microsoft Lync Server AutoDiscover
++htpasswd +WS_FTP.LOG filetype:log
+"index of /" ( upload.cfm | upload.asp | upload.php | upload.cgi | upload.jsp | upload.pl )
+"index of" /wp-content/uploads/shell.php
+intext:Developed By Black.Hack3r ext:php
+intext:"M3R1C4 SHELL BACKDOOR"
+intext:"Please select file to upload:" ext:php
+intext:"Sw Bilgi" ext:php
+intext:"Thehacker - Agd_Scorp - BLaSTER - Cr@zy_King - KinSize - JeXToXiC - s3f4 - rx5"
+intitle:"=[ 1n73ct10n privat shell ]="
+intitle:admin intitle:login
+intitle:Administration - Installation - MantisBT
+intitle:"Authorization" "TF" inurl:"admin.php"
+intitle:Automatic cPanel Finder/Cracker | 3xp1r3 Cyber Army
+intitle:C0ded By web.sniper
+intitle:"ERROR: The requested URL could not be retrieved" "While trying to retrieve the URL" "The following error was encountered:"
+intitle:"FCKeditor - Connectors Tests"
+intitle:"FCKeditor - Uploaders Tests"
+intitle:"freedom is real - 1945"
+intitle:"Hamdida X_Shell Backd00r"
+intitle:"index of" "admin/xml"
+intitle:("Index of") AND intext:("c99.txt" OR "c100.txt")
+intitle:"index of" and intext:"vendor" and intext:"phpunit"
+intitle:"Index of /" +.htaccess
+intitle:"index of /" +.htdocs
+intitle:"index of" "httpd.pid"
+intitle:index of intext:@WanaDecryptor@.exe
+intitle:index of intext:wncry
+intitle:"index.of" +jmx-console
+intitle:"index of" "nginx.log"
+intitle:"InfluxDB - Admin Interface" -github
+intitle:"Installing TYPO3 CMS"
+intitle:("Mini Shell") AND intext:("Upload File")
+intitle:MyShell 1.1.0 build 20010923
+intitle:"net2ftp" "powered by net2ftp" inurl:ftp OR intext:login OR inurl:login
+intitle:"nstview v2.1:: nst.void.ru" | intext:"nsTView v2.1 :: nst.void.ru. Password: Host:"
+intitle:"PHP Shell *" "Enable stderr" filetype:php
+(intitle:"phpshell" OR intitle:"c99shell" OR intitle:"r57shell" OR intitle:"PHP Shell " OR intitle:"phpRemoteView") `rwx` "uname"
+intitle: "phpshell" "Php Safe-Mode Bypass"
+intitle:"Priv8 Mailer Inbox 2015" ext:php
+intitle:"Shell I" inurl:revslider inurl:error.php inurl:cmd
+(intitle:"SHOUTcast Administrator")|(intext:"U SHOUTcast D.N.A.S. Status")
+intitle:SN0X SHELL: WEEEEEEEEEEEEEEEEED
+intitle:"Solr Admin" "Solr Query Syntax"
+intitle:"(SSI Web Shell)" AND intext:"(ls -al)"
+intitle:"uploader by ghost-dz" ext:php
+intitle:Upload inurl:/cgi-bin/filechucker.cgi
+intitle:"Web Data Administrator - Login"
+(intitle:"WordPress ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âº Setup Configuration File")|(inurl:"setup-config.php?step=")
+intitle:"WSO 2.4" [ Sec. Info ], [ Files ], [ Console ], [ Sql ], [ Php ], [ Safe mode ], [ String tools ], [ Bruteforce ], [ Network ], [ Self remove ]
+intitle:"WSO " ext:php intext:"server ip" 2015 intext:" [ home ]"
+intitle:"YALA: Yet Another LDAP Administrator"
+inurl:1337w0rm.php intitle:1337w0rm
+(inurl:81/cgi-bin/.cobalt/) | (intext:"Welcome to the Cobalt RaQ")
+inurl:"amfphp/browser/servicebrowser.swf"
+inurl::/app/kibana "Kibana" -discuss -ipaddress -git
+inurl:"/arcgis/rest/services"
+inurl:ConnectComputer/precheck.htm | inurl:Remote/logon.aspx
+inurl:"cs.html?url="
+inurl:CTCWebService
+inurl:"customer.aspx"
+inurl:/Dashboard.xhtml intitle:"Dashboard"
+inurl:/download_file/ intext:"index of /"
+inurl:?filesrc=**** ~"Current" ~"asp"
+inurl:/\\\\filesrc=**** ~"Current" ~":/" ~"upload"
+inurl:"go.cgi?url="
+inurl:"html/js/editor/ckeditor/"
+inurl:"index of" wso
+inurl:"index.php?db="
+inurl:/install/stringnames.txt
+inurl:"/jmx-console/HtmlAdaptor?action"
+inurl:logon/LogonPoint/index.html
+inurl:maps.arcgis.com +"City of"
+inurl: "Mister Spy" | intext:"Mister Spy & Souheyl Bypass Shell"
+inurl:/phpmyadmin/index.php?db=
+inurl:/phpMyAdmin/setup/index.php?phpMyAdmin=
+inurl:"phpOracleAdmin/php" -download -cvs
+inurl:"/plugins/servlet/Wallboard/"
+inurl:polly/CP
+inurl:revslider inurl:temp inurl:update_extract inurl:sym1
+inurl:/servicedesk/customer/user/login
+inurl:sh3llZ/c99/
+inurl:"/sidekiq/busy"
+inurl:"/tiny_mce/plugins/ajaxfilemanager/inc/data.php" | inurl:"/tiny_mce/plugins/ajaxfilemanager/ajax_create_folder.php" -github
+inurl:"tmtrack.dll?"
+inurl:"urlstatusgo.html?url=" -intext:"Disallowed by URL filter"
+inurl:wp-login.php?action=register
+inurl:wsnavigator/jsps
+mail/u/0 filetype:pdf
+Meg4-Mail ext:php
+"PHP eMailer is created by" ext:php
+PHPKonsole PHPShell filetype:php -echo
+"PHP Mailer" "priv8 Mailer" ext:php
+"Please re-enter your password It must match exactly"
+"Powered by PHPFM" filetype:php -username
+"radius-server key" ext:cfg OR ext:log OR ext:txt
+Re: intitle:Priv8 SCR
+Re: inurl:"r00t.php"
+site:bamboo.*.* ext:action build
+site:linkedin.com employees target.com
+site:*/wp-admin/install.php intitle:WordPress Installation
+"Sorting Logs:" "Please enter your password" "Powered By" -urlscan -alamy
+"WHMCS Auto Xploiter"
+"You have selected the following files for upload (0 Files)."

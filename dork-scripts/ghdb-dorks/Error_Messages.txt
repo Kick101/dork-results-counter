@@ -1,0 +1,122 @@
+"access denied for user" "using password"
+allintext:"fs-admin.php"
+"An illegal character has been found in the statement" -"previous message"
+An unexpected token "END-OF-STATEMENT" was found
+"ASP.NET_SessionId" "data source="
+"A syntax error has occurred" filetype:ihtml
+"Below is a rendering of the page up to the first error." ext:xml
+"CakeRoutingException" -site:github.com -site:stackoverflow.com -site:cakephp.org"
+"Can't connect to local" intitle:warning
+"CHARACTER_SETS" "COLLATION_CHARACTER_SET_APPLICABILITY"
+"Chatologica MetaSearch" "stack tracking:"
+databasetype. Code : 80004005. Error Description :
+"detected an internal error [IBM][CLI Driver][DB2/6000]"
+"dispatch=debugger."
+"Error Diagnostic Information" intitle:"Error Occurred While"
+"error found handling the request" cocoon filetype:xml
+"Fatal error: Call to undefined function" -reply -the -next
+filetype:asp "Custom Error Message" Category Source
+filetype:asp + "[ODBC SQL"
+filetype:log "PHP Parse error" | "PHP Warning" | "PHP Error"
+filetype:php inurl:"logging.php" "Discuz" error
+filetype:php "Notice: Undefined variable: data in" -forum
+"[function.getimagesize]: failed to open stream: No such file or directory in"
+"Incorrect syntax near"
+"Incorrect syntax near" -the
+"Internal Server Error" "server at"
+intext:"Access denied for" intitle:"Shopping cart"
+intext:"Error Message : Error loading required libraries."
+intext:"Error Occurred While Processing Request"
+intext:"expects parameter 1 to be resource, boolean given" filetype:php
+intext:"Fatal error: Class 'Red_Action' not found in"
+intext:"sf_app" + "frontend sf_app_base_cache_dir:"
+intext:"TCPDFtcpdf.php on line 17778" -stackoverflow -wordpress -github
+intext:"Unexpected Problem Occurred!" ext:aspx
+intext:"Warning: Failed opening" "on line" "include_path"
+intitle:"404 SC_NOT_FOUND"
+intitle:"500 Internal Server Error" "server at"
+intitle:"Apache Tomcat" "Error Report"
+intitle:"CGIWrap Error"
+intitle:Configuration.File inurl:softcart.exe
+intitle:Content Server Error IdcService=DOC_INFO
+intitle:"Default PLESK Page"
+intitle:"DSM Terminator [ ABORT ]" | inurl:"./com.sap.portal.dsm.Terminator"
+intitle:Error-javax.el.ELException+error+xhtml
+intitle:"Error log for /LM/"
+intitle:"Error Occurred" "The error occurred in" filetype:cfm
+intitle:"Error Occurred While Processing Request"
+intitle:Error Page pageWrapper.jsp?
+intitle:"Error using Hypernews" "Server Software"
+intitle:"Execution of this script not permitted"
+intitle:"htsearch error" ht://Dig error
+intitle:"index of" errors.log
+intitle:"index of" "my-errors.log" OR "my-errors.logs"
+intitle:"index of" "stacktrace.log"
+intitle:"Struts Problem Report" intext:"development mode is enabled."
+intitle:"the page cannot be found" "2004 microsoft corporation"
+intitle:"the page cannot be found" inetmgr
+intitle:"the page cannot be found" "internet information services"
+intitle:"Under construction" "does not currently have"
+intitle:"Whoops! There was an error."
+inurl:advsearch.php?module= & intext:sql syntax
+inurl:/console-selfservice/common/scripts/calendar/ipopeng.htm
+inurl:elmah.axd ext:axd
+inurl:"/errors/report.php" intext:"There has been an error processing your request"
+inurl:"id=" & intext:"MySQL Error: 1064" & "Session halted."
+inurl:index of driver.php?id=
+inurl:index.php?id= intext:"mysql_fetch_array"
+inurl:"index.php?id=" intext:"Warning: mysql_num_rows()"
+inurl:"index.php?m=content+c=rss+catid=10"
+inurl:/nesp/app
+inurl:/php-errors.log filetype:log
+inurl:".php?id=" "You have an error in your SQL syntax"
+inurl:"*.php?*=*.php" intext:"Warning: include" -inurl:.html -site:"php.net" -site:"stackoverflow.com" -inurl:"*forums*"
+inurl:/SAML2/SOAP/ | inurl:/SAML2/POST
+inurl:sitebuildercontent
+inurl:sitebuilderfiles
+inurl:sitebuilderpictures
+inurl:/siteminderagent/ | app:"Error 404: java.io.FileNotFoundException: SRVE0190E: File not found: /siteminderagent/"
+inurl:/smpwservices.fcc | "/lm_private/CkeSetter.aspx"
+inurl:("/storage/logs/laravel.log") AND intext:("local.ERROR" | "NULL.ERROR" | "EMERGENCY:")
+inurl:/uniquesig0/ or inurl:/uniquesig0/InternalSite/
+inurl:"/WebResource.axd?d=" AND intext:Error
+inurl:?wp-commentsrss2.php -git
+"Invision Power Board Database Error"
+"mySQL error with query"
+"ORA-00921: unexpected end of SQL command"
+"ORA-00933: SQL command not properly ended"
+"ORA-00936: missing expression"
+"ORA-12541: TNS:no listener" intitle:"error occurred"
+"Parse error: parse error, unexpected T_VARIABLE" "on line" filetype:php
+PHP application warnings failing "include_path"
+"plugins/wp-db-backup/wp-db-backup.php"
+"PostgreSQL query failed: ERROR: parser: parse error"
+site:*/404/404.html intitle:"404"
+site:*/cgi-sys/defaultwebpage.cgi intext:"SORRY!"
+site:*/cgi-sys/suspendedpage.cgi intitle:"Account Suspended"
+site:com inurl:jboss filetype:log -github.com
+site:*/Shibboleth.sso/SAML2/POST
+site:*/wp-admin/maint/repair.php intext:"define(WP_ALLOW_REPAIR,true);"
+site:*/wp-includes/Requests/php_errorlog
+"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread
+"supplied argument is not a valid MySQL result resource"
+"Supplied argument is not a valid MySQL result resource"
+"Supplied argument is not a valid PostgreSQL result"
+"syd_apply.cfm"
+"Syntax error in query expression " -the
+"There seems to have been a problem with the" " Please try again by clicking the Refresh button in your web browser."
+"The script whose uid is " "is not allowed to access"
+"Unable to jump to row" "on MySQL result index" "on line"
+"Unclosed quotation mark before the character string"
+"Warning: Bad arguments to (join|implode) () in" "on line" -help -forum
+"Warning: Cannot modify header information - headers already sent"
+"Warning: Division by zero in" "on line" -forum
+warning "error on line" php sablotron
+"Warning:" "failed to open stream: HTTP request failed" "on line"
+"Warning: mysql_connect(): Access denied for user: '*@*" "on line" -help -forum
+"Warning: mysql_query()" "invalid query"
+"Warning: pg_connect(): Unable to connect to PostgreSQL server: FATAL"
+"Warning:" "SAFE MODE Restriction in effect." "The script whose uid is" "is not allowed to access owned by uid 0 in" "on line"
+"Warning: Supplied argument is not a valid File-Handle resource in"
+"--- WebView Livescope Http Server Error ---" -git
+"You have an error in your SQL syntax near"
