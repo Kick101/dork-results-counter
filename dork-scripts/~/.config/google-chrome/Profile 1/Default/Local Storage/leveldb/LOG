@@ -1,5 +1,0 @@
-2023/07/16-00:47:58.782 3 Reusing MANIFEST /home/kickass101/git/dork-scripts/~/.config/google-chrome/Profile 1/Default/Local Storage/leveldb/MANIFEST-000001
-2023/07/16-00:47:58.783 3 Recovering log #17
-2023/07/16-00:47:58.783 3 (ignoring error) /home/kickass101/git/dork-scripts/~/.config/google-chrome/Profile 1/Default/Local Storage/leveldb/000017.log: dropping 22663 bytes; Corruption: checksum mismatch
-2023/07/16-00:47:58.783 3 (ignoring error) /home/kickass101/git/dork-scripts/~/.config/google-chrome/Profile 1/Default/Local Storage/leveldb/000017.log: dropping 16726 bytes; Corruption: missing start of fragmented record(2)
-2023/07/16-00:47:58.784 3 Reusing old log /home/kickass101/git/dork-scripts/~/.config/google-chrome/Profile 1/Default/Local Storage/leveldb/000017.log 

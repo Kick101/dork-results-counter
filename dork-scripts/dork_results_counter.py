@@ -1,5 +1,3 @@
-#!/usr/bin/python
-
 import time
 import requests
 import argparse
@@ -8,6 +6,7 @@ import os
 import random
 import subprocess
 import psutil
+import tempfile
 from wit import Wit
 from pyvirtualdisplay import Display
 from pathlib import Path
@@ -17,6 +16,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.chrome.service import Service
 from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import TimeoutException
 from selenium.common.exceptions import WebDriverException
@@ -162,17 +162,32 @@ def submit_captcha_text(text):
 
 # Create display and browser session
 def start_session():
-    # Create and start a virtual display.
-    display = Display(visible=0, size=(1080, 1920))
-    display.start()
-
-    # Set up Chrome options and initialize the WebDriver.
     options = webdriver.ChromeOptions()
-    service = webdriver.chrome.service.Service(ChromeDriverManager().install())
-    driver = webdriver.Chrome(service=service, options=options)
-    driver.set_window_size(1080, 1920)
 
-    return driver, display
+    # Fresh temporary profile
+    user_data_dir = tempfile.mkdtemp(prefix="chrome-profile-")
+    options.add_argument(f"--user-data-dir={user_data_dir}")
+
+    # Disable the "DevToolsActivePort" and "SingletonLock" problems
+    options.add_argument("--no-first-run")
+    options.add_argument("--no-default-browser-check")
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_argument("--disable-gpu")
+    options.add_argument("--disable-software-rasterizer")
+    options.add_argument("--disable-extensions")
+    options.add_argument("--disable-background-networking")
+    options.add_argument("--remote-debugging-port=0")
+    options.add_argument("--ozone-platform=wayland")
+    options.add_argument("--enable-features=UseOzonePlatform")
+    # options.add_argument("--headless") use virtual display and hide the display
+
+    # Service with webdriver-manager
+    service = Service(ChromeDriverManager().install())
+    driver = webdriver.Chrome(service=service, options=options)
+
+    # Set visible window size
+    driver.set_window_size(1080, 1920)
+    return driver
 
 # Set up argument parsing to specify the file of dorks.
 parser = argparse.ArgumentParser(description='Process the dorks file.')
@@ -187,7 +202,7 @@ output_directory =  os.path.join(script_directory, 'output')
 output_directory = os.path.join(output_directory, dorks_file)
 Path(output_directory).mkdir(parents=True, exist_ok=True)
 
-driver, display = start_session()
+driver = start_session()
 
 # Loop through each dork in the file and process it.
 with open(dorks_file, 'r') as f:
@@ -206,8 +221,7 @@ with open(dorks_file, 'r') as f:
             except InvalidSessionIdException as e:
                 print(e)
                 driver.quit()
-                display.stop()
-                driver, display = start_session()
+                driver = start_session()
 
             except WebDriverException as e:
                 exception_name = type(e).__name__
